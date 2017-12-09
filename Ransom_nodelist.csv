@@ -1,0 +1,49 @@
+"","ID","nName","nodeDegree","nodeBetweenness"
+"Afghanistan",0,"Afghanistan",2,0.293255131964809
+"Bangladesh",1,"Bangladesh",2,8.21114369501466
+"Colombia",2,"Colombia",1,0
+"Democratic Republic of the Congo",3,"Democratic Republic of the Congo",5,31.0850439882698
+"India",4,"India",9,57.4780058651026
+"Libya",5,"Libya",4,23.7536656891496
+"Malaysia",6,"Malaysia",1,0
+"Nigeria",7,"Nigeria",4,23.7536656891496
+"Pakistan",8,"Pakistan",1,0
+"Paraguay",9,"Paraguay",1,0
+"Philippines",10,"Philippines",2,0.586510263929619
+"Somalia",11,"Somalia",1,0
+"South Sudan",12,"South Sudan",1,0
+"Sudan",13,"Sudan",4,23.7536656891496
+"Ukraine",14,"Ukraine",1,0
+"Yemen",15,"Yemen",1,0
+"Khorasan Chapter of the Islamic State",16,"Khorasan Chapter of the Islamic State",1,0
+"Taliban",17,"Taliban",1,0
+"Tripura Group",18,"Tripura Group",1,0
+"Unknown",19,"Unknown",7,100
+"National Liberation Army of Colombia (ELN)",20,"National Liberation Army of Colombia (ELN)",1,0
+"Democratic Front for the Liberation of Rwanda (FDLR)",21,"Democratic Front for the Liberation of Rwanda (FDLR)",1,0
+"Mayi Mayi",22,"Mayi Mayi",1,0
+"Nyatura Militia",23,"Nyatura Militia",1,0
+"Raia Mutomboki Militia",24,"Raia Mutomboki Militia",1,0
+"Achik Songna An'pachakgipa Kotok (ASAK)",25,"Achik Songna An'pachakgipa Kotok (ASAK)",1,0
+"Garo National Liberation Army",26,"Garo National Liberation Army",1,0
+"Kuki National Front (KNF)",27,"Kuki National Front (KNF)",1,0
+"National Democratic Front of Bodoland (NDFB)",28,"National Democratic Front of Bodoland (NDFB)",1,0
+"National Socialist Council of Nagaland-Isak-Muivah (NSCN-IM)",29,"National Socialist Council of Nagaland-Isak-Muivah (NSCN-IM)",1,0
+"National Socialist Council of Nagaland-Unification (NSCN-U)",30,"National Socialist Council of Nagaland-Unification (NSCN-U)",1,0
+"Tribal Revolutionary Army (TRA)",31,"Tribal Revolutionary Army (TRA)",1,0
+"United Liberation Front of Assam (ULFA)",32,"United Liberation Front of Assam (ULFA)",1,0
+"Al-Qaida in the Islamic Maghreb (AQIM)",33,"Al-Qaida in the Islamic Maghreb (AQIM)",1,0
+"Justice and Equality Movement (JEM)",34,"Justice and Equality Movement (JEM)",1,0
+"Tripoli Province of the Islamic State",35,"Tripoli Province of the Islamic State",1,0
+"Abu Sayyaf Group (ASG)",36,"Abu Sayyaf Group (ASG)",2,0.586510263929619
+"Boko Haram",37,"Boko Haram",1,0
+"Fulani extremists",38,"Fulani extremists",1,0
+"Separatists",39,"Separatists",1,0
+"Tehrik-i-Taliban Pakistan (TTP)",40,"Tehrik-i-Taliban Pakistan (TTP)",1,0
+"Paraguayan People's Army (EPP)",41,"Paraguayan People's Army (EPP)",1,0
+"New People's Army (NPA)",42,"New People's Army (NPA)",1,0
+"Al-Shabaab",43,"Al-Shabaab",1,0
+"Abbala extremists",44,"Abbala extremists",1,0
+"Janjaweed",45,"Janjaweed",1,0
+"Tribesmen",46,"Tribesmen",1,0
+"Muslim extremists",47,"Muslim extremists",2,0.293255131964809

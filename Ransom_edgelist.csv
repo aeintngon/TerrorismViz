@@ -1,0 +1,41 @@
+"","SourceName","TargetName","Weight","SourceID","TargetID","diceSim"
+"1","Afghanistan","Khorasan Chapter of the Islamic State",190794.2,0,16,0
+"2","Afghanistan","Taliban",9703,0,17,0
+"3","Bangladesh","Tripura Group",3828.97,1,18,0
+"4","Bangladesh","Unknown",3739.95,1,19,0
+"5","Colombia","National Liberation Army of Colombia (ELN)",33802,2,20,0
+"6","Democratic Republic of the Congo","Democratic Front for the Liberation of Rwanda (FDLR)",20000,3,21,0
+"7","Democratic Republic of the Congo","Mayi Mayi",48000,3,22,0
+"8","Democratic Republic of the Congo","Nyatura Militia",5901,3,23,0
+"9","Democratic Republic of the Congo","Raia Mutomboki Militia",-99,3,24,0
+"10","Democratic Republic of the Congo","Unknown",15000,3,19,0
+"11","India","Achik Songna An'pachakgipa Kotok (ASAK)",10274.54,4,25,0
+"12","India","Garo National Liberation Army",7468.82,4,26,0
+"13","India","Kuki National Front (KNF)",52284.52,4,27,0
+"14","India","National Democratic Front of Bodoland (NDFB)",295,4,28,0
+"15","India","National Socialist Council of Nagaland-Isak-Muivah (NSCN-IM)",37035.33,4,29,0
+"16","India","National Socialist Council of Nagaland-Unification (NSCN-U)",-99,4,30,0
+"17","India","Tribal Revolutionary Army (TRA)",104182.19,4,31,0
+"18","India","United Liberation Front of Assam (ULFA)",148130.4,4,32,0
+"19","India","Unknown",22240.17,4,19,0
+"20","Libya","Al-Qaida in the Islamic Maghreb (AQIM)",4277040,5,33,0
+"21","Libya","Justice and Equality Movement (JEM)",228571.43,5,34,0
+"22","Libya","Tripoli Province of the Islamic State",108254.01,5,35,0
+"23","Libya","Unknown",633591.08,5,19,0
+"24","Malaysia","Abu Sayyaf Group (ASG)",10712095.08,6,36,0
+"25","Nigeria","Boko Haram",195401.4,7,37,0
+"26","Nigeria","Fulani extremists",79263.46,7,38,0
+"27","Nigeria","Separatists",-99,7,39,0
+"28","Nigeria","Unknown",-99,7,19,0
+"29","Pakistan","Tehrik-i-Taliban Pakistan (TTP)",-99,8,40,0
+"30","Paraguay","Paraguayan People's Army (EPP)",1200000,9,41,0
+"31","Philippines","Abu Sayyaf Group (ASG)",6053987.49,10,36,0
+"32","Philippines","New People's Army (NPA)",1508.19,10,42,0
+"33","Somalia","Al-Shabaab",-99,11,43,0
+"34","South Sudan","Unknown",890,12,19,0
+"35","Sudan","Abbala extremists",113681,13,44,0
+"36","Sudan","Janjaweed",1630,13,45,0
+"37","Sudan","Tribesmen",411862.73,13,46,0
+"38","Sudan","Unknown",3082,13,19,0
+"39","Ukraine","Muslim extremists",11163900,14,47,0
+"40","Yemen","Muslim extremists",-99,15,47,0

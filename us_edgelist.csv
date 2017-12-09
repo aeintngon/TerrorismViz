@@ -1,0 +1,1669 @@
+"","SourceName","TargetName","Weight","SourceID","TargetID","diceSim"
+"1","","Taliban","1838",187,1359,0
+"2","","Taliban","2610",187,1359,0
+"3","Aab Kamra","Taliban","1838",291,1359,0
+"4","Aabgarmak","Taliban","2610",512,1359,0
+"5","Ab-e Jalil","Taliban","1838",937,1359,0
+"6","Ab-e Khorma","Taliban","1838",121,1359,0
+"7","Ab Band","Taliban","1838",152,1359,0
+"8","Ab Band","Taliban","2610",152,1359,0
+"9","Ab Band district","Taliban","1838",345,1359,0
+"10","Ab Band district","Taliban","2610",345,1359,0
+"11","Ab Kamari district","Taliban","1838",640,1359,0
+"12","Abband","Taliban","1838",373,1359,0
+"13","Abbazhai","Taliban","1838",1222,1359,0
+"14","Abdul Rauf","Taliban","1838",1231,1359,0
+"15","Abdurrahim","Taliban","1838",755,1359,0
+"16","Abu Jan","Taliban","2610",1071,1359,0
+"17","Abu Naw","Taliban","1838",911,1359,0
+"18","Abu Qala","Taliban","1838",240,1359,0
+"19","Abyak","Taliban","1838",889,1359,0
+"20","Abyak","Taliban","2610",889,1359,0
+"21","Achin","Taliban","1838",570,1359,0
+"22","Achin","Taliban","2610",570,1359,0
+"23","Achin district","Taliban","1838",399,1359,0
+"24","Achin district","Taliban","2610",399,1359,0
+"25","Ad Band district","Taliban","1838",127,1359,0
+"26","Adam Kala","Taliban","1838",1212,1359,0
+"27","Adam Khan","Taliban","1838",1129,1359,0
+"28","Adraskan district","Taliban","2610",546,1359,0
+"29","Afghan Tapa","Taliban","1838",672,1359,0
+"30","Agha Qala","Taliban","2610",415,1359,0
+"31","Ahmad Abad district","Taliban","1838",1245,1359,0
+"32","Ahmadabad district","Taliban","2610",651,1359,0
+"33","Ainak","Taliban","2610",329,1359,0
+"34","Ajristan","Taliban","1838",142,1359,0
+"35","Ajristan district","Taliban","2610",950,1359,0
+"36","Akazai","Taliban","2610",619,1359,0
+"37","Akhund Zada Kalay","Taliban","2610",835,1359,0
+"38","Akhundkhel","Taliban","2610",97,1359,0
+"39","Alam Kala","Taliban","1838",1010,1359,0
+"40","Alam Khel","Taliban","2610",545,1359,0
+"41","Alasay","Taliban","1838",318,1359,0
+"42","Alasay district","Taliban","1838",370,1359,0
+"43","Alasay district","Taliban","2610",370,1359,0
+"44","Alawudin-Mangal","Taliban","2610",484,1359,0
+"45","Albakan","Taliban","1838",475,1359,0
+"46","Alchin","Taliban","2610",238,1359,0
+"47","Ali Kala","Taliban","2610",1155,1359,0
+"48","Ali Khan Qala","Taliban","2610",1280,1359,0
+"49","Ali Shir","Taliban","1838",199,1359,0
+"50","Ali Shir","Taliban","2610",199,1359,0
+"51","Aliabad","Taliban","2610",320,1359,0
+"52","Aliabad district","Taliban","1838",1108,1359,0
+"53","Alikhel","Taliban","2610",350,1359,0
+"54","Alingar","Taliban","1838",297,1359,0
+"55","Alingar","Taliban","2610",297,1359,0
+"56","Alingar district","Taliban","1838",641,1359,0
+"57","Alingar district","Taliban","2610",641,1359,0
+"58","Alishang","Taliban","1838",273,1359,0
+"59","Alisher","Taliban","1838",472,1359,0
+"60","Alisher","Taliban","2610",472,1359,0
+"61","Alisher district","Taliban","1838",526,1359,0
+"62","Alisher district","Taliban","2610",526,1359,0
+"63","Alishing","Taliban","2610",92,1359,0
+"64","Alishing district","Taliban","1838",96,1359,0
+"65","Alishing district","Taliban","2610",96,1359,0
+"66","Alizay","Taliban","2610",1025,1359,0
+"67","Almar","Taliban","2610",314,1359,0
+"68","Almar district","Taliban","1838",720,1359,0
+"69","Almar district","Taliban","2610",720,1359,0
+"70","Alqanaq","Taliban","2610",1313,1359,0
+"71","Altamur","Taliban","2610",1266,1359,0
+"72","Alyasabad","Taliban","1838",1081,1359,0
+"73","Amanullah Karez","Taliban","2610",883,1359,0
+"74","Ambukhar","Taliban","2610",434,1359,0
+"75","Anar Dara district","Taliban","1838",1211,1359,0
+"76","Anar Joy","Taliban","2610",1000,1359,0
+"77","Anar Shela","Taliban","1838",64,1359,0
+"78","Ancho","Taliban","2610",1301,1359,0
+"79","Andar","Taliban","1838",196,1359,0
+"80","Andar","Taliban","2610",196,1359,0
+"81","Andar district","Taliban","1838",81,1359,0
+"82","Andar district","Taliban","2610",81,1359,0
+"83","Andarano","Taliban","2610",1321,1359,0
+"84","Andkhoy district","Taliban","2610",1068,1359,0
+"85","Aq Tapa","Taliban","1838",296,1359,0
+"86","Aq Tapa","Taliban","2610",296,1359,0
+"87","Aqcha district","Taliban","1838",258,1359,0
+"88","Aqcha district","Taliban","2610",258,1359,0
+"89","Aqsai","Taliban","2610",441,1359,0
+"90","Aqso","Taliban","1838",1202,1359,0
+"91","Aqsvi","Taliban","1838",1097,1359,0
+"92","Arabmazari","Taliban","2610",495,1359,0
+"93","Arbab Khalil","Taliban","2610",1134,1359,0
+"94","Archi District","Taliban","1838",639,1359,0
+"95","Arghandab","Taliban","2610",198,1359,0
+"96","Arghandab district","Taliban","1838",393,1359,0
+"97","Arghandab district","Taliban","2610",393,1359,0
+"98","Arghandi","Taliban","1838",1186,1359,0
+"99","Arghastan","Taliban","1838",287,1359,0
+"100","Arghistan district","Taliban","1838",61,1359,0
+"101","Arghistan district","Taliban","2610",61,1359,0
+"102","Arkalik","Taliban","1838",1033,1359,0
+"103","Aryob Zazi","Taliban","1838",739,1359,0
+"104","Aryob Zazi","Taliban","2610",739,1359,0
+"105","Arzi Balochi","Taliban","1838",1287,1359,0
+"106","Arzo","Taliban","1838",1342,1359,0
+"107","Asadabad","Taliban","1838",52,1359,0
+"108","Asadabad","Taliban","2610",52,1359,0
+"109","Asadabad district","Taliban","1838",1046,1359,0
+"110","Askarkot","Taliban","1838",170,1359,0
+"111","Asmar","Taliban","1838",193,1359,0
+"112","Asmar","Taliban","2610",193,1359,0
+"113","Asmar district","Taliban","2610",772,1359,0
+"114","Astana Baba","Taliban","2610",1118,1359,0
+"115","Ataghar","Taliban","2610",164,1359,0
+"116","Atak","Taliban","2610",887,1359,0
+"117","Atghar district","Taliban","1838",625,1359,0
+"118","Atul","Taliban","2610",614,1359,0
+"119","Aybak","Taliban","2610",549,1359,0
+"120","Ayub Khel","Taliban","1838",342,1359,0
+"121","Ayuba","Taliban","2610",177,1359,0
+"122","Azizabad","Taliban","1838",385,1359,0
+"123","Azizabad","Taliban","2610",385,1359,0
+"124","Azra district","Taliban","1838",899,1359,0
+"125","Azra district","Taliban","2610",899,1359,0
+"126","Baba Nazar","Taliban","2610",1232,1359,0
+"127","Babaji","Taliban","1838",1177,1359,0
+"128","Babrak Tana","Taliban","1838",1057,1359,0
+"129","Babukhel","Taliban","1838",676,1359,0
+"130","Babur","Taliban","2610",149,1359,0
+"131","Babus","Taliban","1838",577,1359,0
+"132","Bad Pakh district","Taliban","2610",617,1359,0
+"133","Bad Pas","Taliban","1838",1334,1359,0
+"134","Badghisi","Taliban","2610",817,1359,0
+"135","Badiabad","Taliban","2610",596,1359,0
+"136","Badkhap Roghani","Taliban","2610",1320,1359,0
+"137","Badpash","Taliban","2610",935,1359,0
+"138","Badwan","Taliban","1838",534,1359,0
+"139","Bagal Mast","Taliban","2610",529,1359,0
+"140","Bagh-e Shamal","Taliban","2610",555,1359,0
+"141","Bagh-e Shirqat","Taliban","2610",1066,1359,0
+"142","Baghawa","Taliban","1838",1242,1359,0
+"143","Baghlan","Taliban","1838",248,1359,0
+"144","Baghlan","Taliban","2610",248,1359,0
+"145","Baghlan district","Taliban","2610",306,1359,0
+"146","Baghlani Jadid district","Taliban","1838",302,1359,0
+"147","Baghlani Jadid district","Taliban","2610",302,1359,0
+"148","Baghran","Taliban","1838",105,1359,0
+"149","Baghran district","Taliban","1838",94,1359,0
+"150","Bagram","Taliban","1838",366,1359,0
+"151","Bagram","Taliban","2610",366,1359,0
+"152","Bagram Air Field","Taliban","2610",118,1359,0
+"153","Bagram district","Taliban","2610",874,1359,0
+"154","Baharak","Taliban","2610",249,1359,0
+"155","Baharak district","Taliban","1838",847,1359,0
+"156","Baharak district","Taliban","2610",847,1359,0
+"157","Baho Qala","Taliban","2610",1346,1359,0
+"158","Bahram Chah","Taliban","1838",70,1359,0
+"159","Bahrami Shahid district","Taliban","2610",934,1359,0
+"160","Bai Mogholi","Taliban","2610",1205,1359,0
+"161","Bak","Taliban","1838",148,1359,0
+"162","Bak","Taliban","2610",148,1359,0
+"163","Bak district","Taliban","1838",71,1359,0
+"164","Bak district","Taliban","2610",71,1359,0
+"165","Bakhsh Abad","Taliban","1838",169,1359,0
+"166","Bakhtabad","Taliban","1838",673,1359,0
+"167","Bakhtiar","Taliban","2610",870,1359,0
+"168","Bakwa","Taliban","1838",108,1359,0
+"169","Bakwa","Taliban","2610",108,1359,0
+"170","Bakwa district","Taliban","1838",119,1359,0
+"171","Bakwa district","Taliban","2610",119,1359,0
+"172","Bala Baluk district","Taliban","1838",79,1359,0
+"173","Bala Baluk district","Taliban","2610",79,1359,0
+"174","Bala Buluk","Taliban","1838",643,1359,0
+"175","Bala Buluk district","Taliban","1838",374,1359,0
+"176","Bala Buluk district","Taliban","2610",374,1359,0
+"177","Bala Morghab district","Taliban","2610",1063,1359,0
+"178","Bala Murghab","Taliban","1838",11,1359,0
+"179","Baland Ghowr","Taliban","1838",1031,1359,0
+"180","Balchiragh","Taliban","2610",315,1359,0
+"181","Balghali","Taliban","1838",983,1359,0
+"182","Balkh","Taliban","2610",309,1359,0
+"183","Balkh district","Taliban","2610",910,1359,0
+"184","Balo","Taliban","2610",423,1359,0
+"185","Bamo Khel","Taliban","1838",991,1359,0
+"186","Band-e Abgardan","Taliban","1838",1358,1359,0
+"187","Band Taimor","Taliban","1838",1288,1359,0
+"188","Band Taimor","Taliban","2610",1288,1359,0
+"189","Bandar","Taliban","2610",1075,1359,0
+"190","Bandar-i-Shurab","Taliban","2610",1128,1359,0
+"191","Bandooka","Taliban","1838",957,1359,0
+"192","Barakhanah","Taliban","2610",1122,1359,0
+"193","Baraki Barak","Taliban","1838",299,1359,0
+"194","Baraki Barak","Taliban","2610",299,1359,0
+"195","Baraki Barak district","Taliban","1838",802,1359,0
+"196","Baraki Barak district","Taliban","2610",802,1359,0
+"197","Baraki Rajan","Taliban","1838",524,1359,0
+"198","Barg-e- Matal","Taliban","1838",628,1359,0
+"199","Bargam","Taliban","2610",967,1359,0
+"200","Bargi Matal","Taliban","1838",246,1359,0
+"201","Bargi Matal","Taliban","2610",246,1359,0
+"202","Bargi Matal district","Taliban","1838",921,1359,0
+"203","Barikot","Taliban","1838",1207,1359,0
+"204","Barkandi","Taliban","2610",463,1359,0
+"205","Barki Rajan","Taliban","1838",523,1359,0
+"206","Barmal","Taliban","1838",30,1359,0
+"207","Barmal","Taliban","2610",30,1359,0
+"208","Barmal district","Taliban","1838",89,1359,0
+"209","Barmal district","Taliban","2610",89,1359,0
+"210","Bartaka","Taliban","1838",1141,1359,0
+"211","Barwai","Taliban","1838",824,1359,0
+"212","Bashi Kala","Taliban","2610",1007,1359,0
+"213","Bashlmes","Taliban","1838",1032,1359,0
+"214","Basolan area","Taliban","2610",645,1359,0
+"215","Basram","Taliban","1838",123,1359,0
+"216","Bati Kot","Taliban","1838",611,1359,0
+"217","Bati Kot district","Taliban","1838",223,1359,0
+"218","Bati Kot district","Taliban","2610",223,1359,0
+"219","Bawario","Taliban","1838",408,1359,0
+"220","Bayzo","Taliban","1838",1285,1359,0
+"221","Bazarak","Taliban","2610",588,1359,0
+"222","Behsud","Taliban","2610",321,1359,0
+"223","Behsud district","Taliban","2610",714,1359,0
+"224","Besram","Taliban","2610",605,1359,0
+"225","Biabanak","Taliban","2610",1091,1359,0
+"226","Bihsud district","Taliban","2610",634,1359,0
+"227","Biksar","Taliban","1838",1054,1359,0
+"228","Bila Khel","Taliban","2610",38,1359,0
+"229","Bini Sher Afghan","Taliban","2610",886,1359,0
+"230","Bish Ara","Taliban","2610",252,1359,0
+"231","Boghawee","Taliban","2610",787,1359,0
+"232","Boji Bast","Taliban","1838",538,1359,0
+"233","Bolan","Taliban","1838",1009,1359,0
+"234","Bolan","Taliban","2610",1009,1359,0
+"235","Bolandi","Taliban","1838",1190,1359,0
+"236","Borka","Taliban","2610",307,1359,0
+"237","Botakhel","Taliban","1838",67,1359,0
+"238","Breshna Kot Pul","Taliban","2610",994,1359,0
+"239","Bukhari Qala","Taliban","1838",981,1359,0
+"240","Bukhari Qala","Taliban","2610",981,1359,0
+"241","Burka district","Taliban","1838",1042,1359,0
+"242","Burka district","Taliban","2610",1042,1359,0
+"243","Butkhana","Taliban","2610",144,1359,0
+"244","Chaghar Qishlaq","Taliban","1838",1047,1359,0
+"245","Chaghatak","Taliban","1838",1357,1359,0
+"246","Chah Anjeer","Taliban","1838",1175,1359,0
+"247","Chah Anjeer","Taliban","2610",1175,1359,0
+"248","Chah Takhta","Taliban","1838",1132,1359,0
+"249","Chahak","Taliban","1838",1069,1359,0
+"250","Chahar Bagh","Taliban","2610",17,1359,0
+"251","Chahar Bagh Gulshan","Taliban","1838",492,1359,0
+"252","Chahar Bolak","Taliban","2610",275,1359,0
+"253","Chahar Bolak district","Taliban","1838",178,1359,0
+"254","Chahar Bolak district","Taliban","2610",178,1359,0
+"255","Chahar Burja district","Taliban","1838",915,1359,0
+"256","Chahar Burja district","Taliban","2610",915,1359,0
+"257","Chahar Burjak","Taliban","2610",631,1359,0
+"258","Chahar Dara","Taliban","2610",269,1359,0
+"259","Chahar Dara district","Taliban","1838",182,1359,0
+"260","Chahar Dara district","Taliban","2610",182,1359,0
+"261","Chahar Dewali","Taliban","1838",1150,1359,0
+"262","Chahar Sari","Taliban","2610",1315,1359,0
+"263","Chahar Sarri","Taliban","1838",1235,1359,0
+"264","Chahar Shanba Tep","Taliban","1838",1331,1359,0
+"265","Chaharbagh","Taliban","2610",821,1359,0
+"266","Chaharikar","Taliban","1838",226,1359,0
+"267","Chaharikar","Taliban","2610",226,1359,0
+"268","Chaharsadda district","Taliban","2610",461,1359,0
+"269","Chak district","Taliban","2610",658,1359,0
+"270","Chakhansur district","Taliban","2610",973,1359,0
+"271","Chaki Wardak district","Taliban","2610",964,1359,0
+"272","Chakul","Taliban","1838",49,1359,0
+"273","Chaltan","Taliban","1838",1302,1359,0
+"274","Chamkani","Taliban","2610",709,1359,0
+"275","Chamkani district","Taliban","1838",292,1359,0
+"276","Chamkani district","Taliban","2610",292,1359,0
+"277","Chamtali","Taliban","1838",990,1359,0
+"278","Chanjeer","Taliban","2610",228,1359,0
+"279","Chapa Dara district","Taliban","1838",761,1359,0
+"280","Chapa Dara district","Taliban","2610",761,1359,0
+"281","Chapahar","Taliban","1838",559,1359,0
+"282","Chapahar","Taliban","2610",559,1359,0
+"283","Chaparhar","Taliban","1838",336,1359,0
+"284","Chaparhar district","Taliban","1838",157,1359,0
+"285","Chaparhar district","Taliban","2610",157,1359,0
+"286","Chappadarra","Taliban","1838",719,1359,0
+"287","Chaqmah Chuqur","Taliban","1838",1055,1359,0
+"288","Char Borjak","Taliban","1838",80,1359,0
+"289","Char Chinah","Taliban","2610",48,1359,0
+"290","Char Qala","Taliban","1838",1277,1359,0
+"291","Char Rahi Barakat","Taliban","2610",433,1359,0
+"292","Char Saraka-i-Haji Naeem","Taliban","1838",861,1359,0
+"293","Char Tut","Taliban","2610",300,1359,0
+"294","Charamgar","Taliban","1838",1325,1359,0
+"295","Charbagh","Taliban","1838",1089,1359,0
+"296","Charchino district","Taliban","2610",63,1359,0
+"297","Charikar","Taliban","2610",849,1359,0
+"298","Charkh","Taliban","1838",301,1359,0
+"299","Charkh district","Taliban","1838",489,1359,0
+"300","Charkh district","Taliban","2610",489,1359,0
+"301","Charmas","Taliban","1838",1101,1359,0
+"302","Charmestan","Taliban","1838",1220,1359,0
+"303","Charsada district","Taliban","1838",565,1359,0
+"304","Charsada district","Taliban","2610",565,1359,0
+"305","Charwarkhel","Taliban","1838",155,1359,0
+"306","Chashma Sher","Taliban","1838",1279,1359,0
+"307","Chawk-e-Sargardan","Taliban","2610",627,1359,0
+"308","Chawkay","Taliban","1838",211,1359,0
+"309","Chechkatu","Taliban","1838",1125,1359,0
+"310","Chehl Dukhtaran","Taliban","2610",855,1359,0
+"311","Chemtal","Taliban","2610",310,1359,0
+"312","Chichkeh","Taliban","1838",244,1359,0
+"313","Chimtal district","Taliban","1838",898,1359,0
+"314","Chimtal district","Taliban","2610",898,1359,0
+"315","Chinar","Taliban","1838",481,1359,0
+"316","Chinargai","Taliban","1838",1149,1359,0
+"317","Chino","Taliban","2610",468,1359,0
+"318","Chishti Sharif","Taliban","2610",582,1359,0
+"319","Chishti Sharif district","Taliban","1838",774,1359,0
+"320","Chishti Sharif district","Taliban","2610",774,1359,0
+"321","Cholan","Taliban","2610",715,1359,0
+"322","Chora","Taliban","1838",264,1359,0
+"323","Chora","Taliban","2610",264,1359,0
+"324","Chora district","Taliban","1838",395,1359,0
+"325","Chora district","Taliban","2610",395,1359,0
+"326","Chorakhel","Taliban","2610",445,1359,0
+"327","Chuck","Taliban","1838",1099,1359,0
+"328","Dab Kotal","Taliban","2610",1347,1359,0
+"329","Dado Khel","Taliban","2610",1328,1359,0
+"330","Dagu","Taliban","2610",19,1359,0
+"331","Dagyan","Taliban","1838",599,1359,0
+"332","Dahak","Taliban","2610",1333,1359,0
+"333","Dahan-e Kakari","Taliban","2610",592,1359,0
+"334","Dahana-i-Ghuri","Taliban","1838",293,1359,0
+"335","Dahana-i-Ghuri district","Taliban","1838",701,1359,0
+"336","Dahana-i-Ghuri district","Taliban","2610",701,1359,0
+"337","Dalan","Taliban","2610",804,1359,0
+"338","Dalan Sang","Taliban","2610",853,1359,0
+"339","Daman","Taliban","2610",1016,1359,0
+"340","Daman district","Taliban","2610",758,1359,0
+"341","Dand","Taliban","1838",55,1359,0
+"342","Dand-e-Ghori","Taliban","1838",1098,1359,0
+"343","Dand-e-Ghori","Taliban","2610",1098,1359,0
+"344","Dand-i-Shahabuddin","Taliban","2610",1224,1359,0
+"345","Dand Patan","Taliban","2610",697,1359,0
+"346","Dand Patan district","Taliban","1838",851,1359,0
+"347","Dand Shahabuddin","Taliban","1838",1189,1359,0
+"348","Dand Wa Patan","Taliban","1838",224,1359,0
+"349","Dangam","Taliban","1838",207,1359,0
+"350","Dangam district","Taliban","1838",104,1359,0
+"351","Dangam district","Taliban","2610",104,1359,0
+"352","Daomanda","Taliban","2610",708,1359,0
+"353","Dara-i-Nur district","Taliban","2610",888,1359,0
+"354","Dara-i-Pech district","Taliban","1838",939,1359,0
+"355","Dara-i-Pech district","Taliban","2610",939,1359,0
+"356","Dara-i-Suf district","Taliban","2610",825,1359,0
+"357","Dara-i-Sufi Payin district","Taliban","1838",989,1359,0
+"358","Dara-i-Sufi Payin district","Taliban","2610",989,1359,0
+"359","Darae Bum","Taliban","1838",1106,1359,0
+"360","Darah ye Nur","Taliban","1838",251,1359,0
+"361","Darbar","Taliban","1838",784,1359,0
+"362","Dargai","Taliban","1838",485,1359,0
+"363","Darin","Taliban","1838",1117,1359,0
+"364","Darqad district","Taliban","1838",1119,1359,0
+"365","Darwazakun","Taliban","1838",1011,1359,0
+"366","Darzab","Taliban","1838",404,1359,0
+"367","Darzab","Taliban","2610",404,1359,0
+"368","Darzab district","Taliban","1838",922,1359,0
+"369","Darzab district","Taliban","2610",922,1359,0
+"370","Dasht-e-Nezan","Taliban","1838",1166,1359,0
+"371","Dasht-i-Laila","Taliban","1838",508,1359,0
+"372","Dasht Malizai","Taliban","1838",1087,1359,0
+"373","Dashti Archi","Taliban","2610",285,1359,0
+"374","Dashti Archi district","Taliban","1838",280,1359,0
+"375","Dashti Archi district","Taliban","2610",280,1359,0
+"376","Dashti Qala","Taliban","2610",1198,1359,0
+"377","Dashti Qala district","Taliban","1838",1022,1359,0
+"378","Dastasak","Taliban","1838",999,1359,0
+"379","Daudkhel","Taliban","2610",427,1359,0
+"380","Daulat Abad","Taliban","2610",363,1359,0
+"381","Dawalatbad","Taliban","1838",782,1359,0
+"382","Dawawa","Taliban","1838",1233,1359,0
+"383","Dawlat Shah district","Taliban","1838",391,1359,0
+"384","Dawlat Shah district","Taliban","2610",391,1359,0
+"385","Dawlat Yar district","Taliban","1838",531,1359,0
+"386","Dawlat Yar district","Taliban","2610",531,1359,0
+"387","Dawlatabad","Taliban","1838",278,1359,0
+"388","Dawlatabad","Taliban","2610",278,1359,0
+"389","Dawlatabad district","Taliban","1838",303,1359,0
+"390","Dawlatabad district","Taliban","2610",303,1359,0
+"391","Dawlatzai","Taliban","1838",854,1359,0
+"392","Dawood Khel","Taliban","2610",1291,1359,0
+"393","Dawran Khel","Taliban","2610",431,1359,0
+"394","Dawud Kala","Taliban","2610",132,1359,0
+"395","Day Mirdad","Taliban","2610",421,1359,0
+"396","Day Mirdad district","Taliban","1838",936,1359,0
+"397","Day Mirdad district","Taliban","2610",936,1359,0
+"398","Daychopan","Taliban","1838",540,1359,0
+"399","Daychopan district","Taliban","1838",135,1359,0
+"400","Daychopan district","Taliban","2610",135,1359,0
+"401","Daylanor","Taliban","1838",57,1359,0
+"402","Deh-e Bagh","Taliban","2610",518,1359,0
+"403","Deh-e Shaykh","Taliban","1838",976,1359,0
+"404","Deh-Jawz","Taliban","1838",262,1359,0
+"405","Deh Ghani","Taliban","1838",1085,1359,0
+"406","Deh Gul","Taliban","1838",982,1359,0
+"407","Deh Gul","Taliban","2610",982,1359,0
+"408","Deh Rahwod","Taliban","2610",585,1359,0
+"409","Deh Rahwod district","Taliban","1838",800,1359,0
+"410","Deh Rahwod district","Taliban","2610",800,1359,0
+"411","Deh Sala district","Taliban","1838",167,1359,0
+"412","Dehak","Taliban","1838",304,1359,0
+"413","Dehdadi district","Taliban","2610",1229,1359,0
+"414","Dehzak","Taliban","1838",601,1359,0
+"415","Delaram","Taliban","1838",31,1359,0
+"416","Delaram","Taliban","2610",31,1359,0
+"417","Delaram district","Taliban","1838",811,1359,0
+"418","Delaram district","Taliban","2610",811,1359,0
+"419","Deraki","Taliban","2610",655,1359,0
+"420","Derqad","Taliban","2610",748,1359,0
+"421","Dewana Khan","Taliban","1838",783,1359,0
+"422","Dewana Khana","Taliban","1838",1058,1359,0
+"423","Dih Bala district","Taliban","2610",946,1359,0
+"424","Dih Sabz","Taliban","2610",256,1359,0
+"425","Dih Sabz district","Taliban","2610",953,1359,0
+"426","Dih Yak","Taliban","1838",683,1359,0
+"427","Dih Yak district","Taliban","1838",664,1359,0
+"428","Dih Yak district","Taliban","2610",664,1359,0
+"429","Dihrawud","Taliban","2610",205,1359,0
+"430","Dihrawud district","Taliban","1838",161,1359,0
+"431","Disho","Taliban","1838",18,1359,0
+"432","Disho district","Taliban","1838",56,1359,0
+"433","Do Ab","Taliban","1838",632,1359,0
+"434","Do Abi","Taliban","1838",563,1359,0
+"435","Do Abi","Taliban","2610",563,1359,0
+"436","Dobandi","Taliban","1838",675,1359,0
+"437","Dobandi","Taliban","2610",675,1359,0
+"438","Dohama Hisa","Taliban","1838",700,1359,0
+"439","Dong Qala","Taliban","1838",525,1359,0
+"440","Dongal","Taliban","2610",471,1359,0
+"441","Dooab","Taliban","2610",419,1359,0
+"442","Dorahi","Taliban","1838",818,1359,0
+"443","Dorzu","Taliban","1838",828,1359,0
+"444","Dosaraka","Taliban","1838",417,1359,0
+"445","Du Layna","Taliban","2610",707,1359,0
+"446","Du Layna district","Taliban","1838",516,1359,0
+"447","Du Layna district","Taliban","2610",516,1359,0
+"448","Duab","Taliban","1838",1340,1359,0
+"449","Duhab district","Taliban","2610",775,1359,0
+"450","Dukin","Taliban","1838",1100,1359,0
+"451","Dukin","Taliban","2610",1100,1359,0
+"452","Dur Baba","Taliban","1838",335,1359,0
+"453","Dur Baba","Taliban","2610",335,1359,0
+"454","Dur Baba district","Taliban","1838",949,1359,0
+"455","Durai Junction","Taliban","2610",383,1359,0
+"456","Durna","Taliban","1838",642,1359,0
+"457","Dusang","Taliban","2610",633,1359,0
+"458","Dushi district","Taliban","2610",779,1359,0
+"459","Dwah Mande","Taliban","2610",277,1359,0
+"460","Dwahmande","Taliban","1838",220,1359,0
+"461","Dwahmande","Taliban","2610",220,1359,0
+"462","Ebrahihim Khel","Taliban","2610",548,1359,0
+"463","Eidgah","Taliban","2610",486,1359,0
+"464","Enjil","Taliban","1838",722,1359,0
+"465","Faizabad","Taliban","1838",42,1359,0
+"466","Faizabad","Taliban","2610",42,1359,0
+"467","Faizabad district","Taliban","1838",827,1359,0
+"468","Farah","Taliban","1838",84,1359,0
+"469","Farah","Taliban","2610",84,1359,0
+"470","Farah district","Taliban","1838",1192,1359,0
+"471","Farah Rud","Taliban","1838",1259,1359,0
+"472","Farodin","Taliban","2610",1352,1359,0
+"473","Farsha","Taliban","2610",1158,1359,0
+"474","Farsi","Taliban","2610",909,1359,0
+"475","Farsi district","Taliban","2610",1074,1359,0
+"476","Fateh Mena","Taliban","1838",384,1359,0
+"477","Fateh Muhammad Manda","Taliban","1838",662,1359,0
+"478","Fayzabad","Taliban","2610",1336,1359,0
+"479","Fayzabad district","Taliban","1838",1130,1359,0
+"480","Fayzabad district","Taliban","2610",1130,1359,0
+"481","Feroz Koh","Taliban","2610",980,1359,0
+"482","Gadakheyl","Taliban","2610",487,1359,0
+"483","Gadamdar","Taliban","1838",862,1359,0
+"484","Gajgeen","Taliban","1838",1040,1359,0
+"485","Gajri","Taliban","2610",843,1359,0
+"486","Gala Shor","Taliban","2610",369,1359,0
+"487","Gala Tut","Taliban","1838",952,1359,0
+"488","Galahi","Taliban","1838",426,1359,0
+"489","Gam-e Shak","Taliban","1838",805,1359,0
+"490","Gambel","Taliban","1838",925,1359,0
+"491","Gandaher","Taliban","1838",1138,1359,0
+"492","Gandma","Taliban","2610",532,1359,0
+"493","Ganjgal","Taliban","1838",514,1359,0
+"494","Gaosiah","Taliban","2610",1251,1359,0
+"495","Gardan","Taliban","1838",951,1359,0
+"496","Gardez","Taliban","1838",25,1359,0
+"497","Gardez","Taliban","2610",25,1359,0
+"498","Gari","Taliban","2610",183,1359,0
+"499","Garmab","Taliban","2610",653,1359,0
+"500","Garmser","Taliban","1838",241,1359,0
+"501","Garmser","Taliban","2610",241,1359,0
+"502","Garmser district","Taliban","2610",86,1359,0
+"503","Garmsir","Taliban","1838",602,1359,0
+"504","Garmsir","Taliban","2610",602,1359,0
+"505","Garmsir district","Taliban","2610",1263,1359,0
+"506","Garshinan","Taliban","1838",1086,1359,0
+"507","Garsmir district","Taliban","2610",777,1359,0
+"508","Gato Qala","Taliban","2610",613,1359,0
+"509","Gawhardesh","Taliban","2610",997,1359,0
+"510","Gelan district","Taliban","1838",506,1359,0
+"511","Gelan district","Taliban","2610",506,1359,0
+"512","Gerani","Taliban","1838",1050,1359,0
+"513","Gerda Sarai district","Taliban","1838",767,1359,0
+"514","Gerda Serai","Taliban","2610",578,1359,0
+"515","Gereshk","Taliban","1838",73,1359,0
+"516","Gereshk","Taliban","2610",73,1359,0
+"517","Ghalbyan","Taliban","1838",535,1359,0
+"518","Ghandak","Taliban","2610",594,1359,0
+"519","Ghani Khail","Taliban","2610",786,1359,0
+"520","Ghani Khel","Taliban","1838",746,1359,0
+"521","Ghani Khel","Taliban","2610",746,1359,0
+"522","Ghanikhel","Taliban","2610",78,1359,0
+"523","Ghanikhel district","Taliban","2610",360,1359,0
+"524","Ghara","Taliban","2610",882,1359,0
+"525","Gharabad","Taliban","1838",789,1359,0
+"526","Gharbi","Taliban","1838",1174,1359,0
+"527","Ghaziabad","Taliban","1838",610,1359,0
+"528","Ghaziabad district","Taliban","1838",394,1359,0
+"529","Ghaziabad district","Taliban","2610",394,1359,0
+"530","Ghazni","Taliban","1838",5,1359,0
+"531","Ghazni","Taliban","2610",5,1359,0
+"532","Ghorabad","Taliban","2610",584,1359,0
+"533","Ghorak","Taliban","1838",215,1359,0
+"534","Ghorak","Taliban","2610",215,1359,0
+"535","Ghorak district","Taliban","1838",16,1359,0
+"536","Ghoramch","Taliban","2610",522,1359,0
+"537","Ghorband district","Taliban","2610",780,1359,0
+"538","Ghorbandi","Taliban","2610",1203,1359,0
+"539","Ghorchi","Taliban","1838",830,1359,0
+"540","Ghorghory","Taliban","2610",168,1359,0
+"541","Ghormach","Taliban","2610",455,1359,0
+"542","Ghormach district","Taliban","1838",339,1359,0
+"543","Ghormach district","Taliban","2610",339,1359,0
+"544","Ghoryan","Taliban","2610",305,1359,0
+"545","Ghoryan district","Taliban","1838",162,1359,0
+"546","Ghourian","Taliban","1838",589,1359,0
+"547","Ghowayano Gat","Taliban","2610",969,1359,0
+"548","Ghurmach","Taliban","1838",554,1359,0
+"549","Ghurmach","Taliban","2610",554,1359,0
+"550","Gilan","Taliban","2610",955,1359,0
+"551","Gilan Kachi","Taliban","2610",842,1359,0
+"552","Giro district","Taliban","1838",98,1359,0
+"553","Giro district","Taliban","2610",98,1359,0
+"554","Gizab","Taliban","1838",279,1359,0
+"555","Gizab","Taliban","2610",279,1359,0
+"556","Gizab district","Taliban","1838",771,1359,0
+"557","Gizab district","Taliban","2610",771,1359,0
+"558","Goband","Taliban","1838",791,1359,0
+"559","Godaley","Taliban","2610",156,1359,0
+"560","Godar","Taliban","2610",1014,1359,0
+"561","Goldad Khelo","Taliban","2610",876,1359,0
+"562","Gomal","Taliban","1838",556,1359,0
+"563","Gomal district","Taliban","1838",113,1359,0
+"564","Gombat","Taliban","1838",1103,1359,0
+"565","Gor Tepa","Taliban","1838",1048,1359,0
+"566","Gorbaz","Taliban","1838",140,1359,0
+"567","Gorbaz","Taliban","2610",140,1359,0
+"568","Gordzad","Taliban","1838",1113,1359,0
+"569","Gorigah","Taliban","2610",1326,1359,0
+"570","Gorjak","Taliban","1838",998,1359,0
+"571","Gortepa","Taliban","2610",338,1359,0
+"572","Gosfandi","Taliban","1838",567,1359,0
+"573","Gozarah","Taliban","1838",237,1359,0
+"574","Gozarah","Taliban","2610",237,1359,0
+"575","Gozarah district","Taliban","2610",176,1359,0
+"576","Gul Bagh","Taliban","2610",966,1359,0
+"577","Gul Bahri","Taliban","2610",1039,1359,0
+"578","Gulchin","Taliban","2610",940,1359,0
+"579","Gulistan district","Taliban","1838",76,1359,0
+"580","Gulistan district","Taliban","2610",76,1359,0
+"581","Gulkari","Taliban","2610",688,1359,0
+"582","Gulo","Taliban","1838",705,1359,0
+"583","Gulran district","Taliban","2610",564,1359,0
+"584","Gunjabad","Taliban","1838",1049,1359,0
+"585","Gurbuz district","Taliban","2610",968,1359,0
+"586","Gurziwan district","Taliban","1838",1002,1359,0
+"587","Gurziwan district","Taliban","2610",1002,1359,0
+"588","Guzara","Taliban","1838",411,1359,0
+"589","Guzara","Taliban","2610",411,1359,0
+"590","Gyan district","Taliban","2610",657,1359,0
+"591","Habib","Taliban","1838",706,1359,0
+"592","Habib","Taliban","2610",706,1359,0
+"593","Hadera","Taliban","2610",1092,1359,0
+"594","Haft Asia","Taliban","2610",823,1359,0
+"595","Haft Asiab","Taliban","1838",684,1359,0
+"596","Haidarabad","Taliban","1838",871,1359,0
+"597","Haidarabad","Taliban","2610",871,1359,0
+"598","Haji Amin Kalay","Taliban","2610",117,1359,0
+"599","Haji Khel","Taliban","2610",509,1359,0
+"600","Haji Qul","Taliban","1838",1154,1359,0
+"601","Hajiabad","Taliban","2610",1246,1359,0
+"602","Hakim Abad","Taliban","2610",710,1359,0
+"603","Hasan Karez","Taliban","2610",111,1359,0
+"604","Hasantal","Taliban","2610",344,1359,0
+"605","Hashemkhel Khwar","Taliban","2610",1012,1359,0
+"606","Haskah Mena","Taliban","2610",233,1359,0
+"607","Haskah Menah district","Taliban","1838",797,1359,0
+"608","Hassan Khel","Taliban","2610",418,1359,0
+"609","Hasti","Taliban","1838",1065,1359,0
+"610","Hawz Madad","Taliban","2610",95,1359,0
+"611","Haydarabad","Taliban","2610",848,1359,0
+"612","Hazar Juft","Taliban","1838",68,1359,0
+"613","Hazar Juft","Taliban","2610",68,1359,0
+"614","Hazarat","Taliban","1838",150,1359,0
+"615","Hazrat","Taliban","1838",1253,1359,0
+"616","Hazrat Sultan","Taliban","2610",477,1359,0
+"617","Herat","Taliban","1838",87,1359,0
+"618","Herat","Taliban","2610",87,1359,0
+"619","Hesarak","Taliban","1838",557,1359,0
+"620","Hesarak district","Taliban","1838",752,1359,0
+"621","Hesarak district","Taliban","2610",752,1359,0
+"622","Hisarak district","Taliban","1838",873,1359,0
+"623","Hisarak district","Taliban","2610",873,1359,0
+"624","Ibadullah Qulf","Taliban","1838",1084,1359,0
+"625","Imam Sahib","Taliban","1838",259,1359,0
+"626","Imam Sahib","Taliban","2610",259,1359,0
+"627","Imam Sahib district","Taliban","1838",692,1359,0
+"628","Imam Sahib district","Taliban","2610",692,1359,0
+"629","Injil district","Taliban","1838",738,1359,0
+"630","Ishkamish district","Taliban","1838",666,1359,0
+"631","Ishkamish district","Taliban","2610",666,1359,0
+"632","Ishkashim district","Taliban","2610",916,1359,0
+"633","Islam Kala","Taliban","2610",623,1359,0
+"634","Ismail Khel","Taliban","2610",88,1359,0
+"635","Ismail Qashlaq","Taliban","1838",1296,1359,0
+"636","Ismailkhil","Taliban","1838",1162,1359,0
+"637","Jaar Qala","Taliban","2610",496,1359,0
+"638","Jabal Saraj district","Taliban","2610",839,1359,0
+"639","Jado Khail","Taliban","2610",647,1359,0
+"640","Jadran district","Taliban","1838",22,1359,0
+"641","Jadran district","Taliban","2610",22,1359,0
+"642","Jafari","Taliban","2610",442,1359,0
+"643","Jaghatu","Taliban","2610",598,1359,0
+"644","Jaghatu district","Taliban","1838",166,1359,0
+"645","Jaghatu district","Taliban","2610",166,1359,0
+"646","Jaghtu district","Taliban","2610",1112,1359,0
+"647","Jaji Maydan district","Taliban","1838",568,1359,0
+"648","Jaji Maydan district","Taliban","2610",568,1359,0
+"649","Jalai district","Taliban","2610",160,1359,0
+"650","Jalalabad","Taliban","1838",6,1359,0
+"651","Jalalabad","Taliban","2610",6,1359,0
+"652","Jalalzo","Taliban","2610",1234,1359,0
+"653","Jaldak","Taliban","1838",1184,1359,0
+"654","Jalezai","Taliban","1838",1090,1359,0
+"655","Jalrez","Taliban","1838",542,1359,0
+"656","Jalrez","Taliban","2610",542,1359,0
+"657","Jalrez district","Taliban","1838",661,1359,0
+"658","Jamal Kala","Taliban","2610",1218,1359,0
+"659","Jangal","Taliban","2610",446,1359,0
+"660","Jangal Aregh","Taliban","1838",1314,1359,0
+"661","Jangul","Taliban","1838",803,1359,0
+"662","Jani Khail district","Taliban","2610",503,1359,0
+"663","Jani Khel","Taliban","2610",261,1359,0
+"664","Jani Khel district","Taliban","1838",947,1359,0
+"665","Janikhel district","Taliban","2610",781,1359,0
+"666","Jar Khoshk","Taliban","1838",751,1359,0
+"667","Jar Quduq","Taliban","1838",970,1359,0
+"668","Jardaq","Taliban","1838",1354,1359,0
+"669","Jardoq","Taliban","1838",852,1359,0
+"670","Jawand district","Taliban","1838",1299,1359,0
+"671","Jazi","Taliban","1838",362,1359,0
+"672","Jobin","Taliban","1838",891,1359,0
+"673","Jogaroom","Taliban","2610",352,1359,0
+"674","Joi Ganj","Taliban","2610",449,1359,0
+"675","Joi Lahore","Taliban","2610",652,1359,0
+"676","Joy Naw","Taliban","2610",1114,1359,0
+"677","Juma Qala","Taliban","2610",1282,1359,0
+"678","Jumuma","Taliban","2610",1343,1359,0
+"679","Jurm","Taliban","1838",903,1359,0
+"680","Jurm district","Taliban","1838",660,1359,0
+"681","Jurm district","Taliban","2610",660,1359,0
+"682","Kabul","Taliban","1838",0,1359,0
+"683","Kabul","Taliban","2610",0,1359,0
+"684","Kabulcha","Taliban","1838",762,1359,0
+"685","Kahmard district","Taliban","1838",479,1359,0
+"686","Kahmard district","Taliban","2610",479,1359,0
+"687","Kajaki","Taliban","1838",13,1359,0
+"688","Kajaki","Taliban","2610",13,1359,0
+"689","Kajaki district","Taliban","1838",793,1359,0
+"690","Kajaki district","Taliban","2610",793,1359,0
+"691","Kajor","Taliban","2610",402,1359,0
+"692","Kakaran","Taliban","2610",795,1359,0
+"693","Kakrak","Taliban","2610",724,1359,0
+"694","Kala Gosh","Taliban","2610",483,1359,0
+"695","Kala Zal","Taliban","2610",172,1359,0
+"696","Kala Zal district","Taliban","1838",717,1359,0
+"697","Kalakan district","Taliban","2610",1146,1359,0
+"698","Kalangar","Taliban","2610",954,1359,0
+"699","Kalantar","Taliban","2610",1327,1359,0
+"700","Kalata-i-Nazar","Taliban","1838",181,1359,0
+"701","Kalata Nazar","Taliban","1838",1230,1359,0
+"702","Kalatak","Taliban","1838",913,1359,0
+"703","Kalbaat","Taliban","1838",959,1359,0
+"704","Kaldar district","Taliban","2610",312,1359,0
+"705","Kalta Shakh","Taliban","1838",1248,1359,0
+"706","Kamari","Taliban","2610",1256,1359,0
+"707","Kamdesh","Taliban","1838",576,1359,0
+"708","Kamdesh","Taliban","2610",576,1359,0
+"709","Kamdesh district","Taliban","1838",398,1359,0
+"710","Kamdesh district","Taliban","2610",398,1359,0
+"711","Kand-i-Kapar","Taliban","2610",1309,1359,0
+"712","Kandahar","Taliban","1838",7,1359,0
+"713","Kandahar","Taliban","2610",7,1359,0
+"714","Kandahar district","Taliban","2610",972,1359,0
+"715","Kandahar Hadda","Taliban","1838",1105,1359,0
+"716","Kandaharyan","Taliban","1838",409,1359,0
+"717","Kandgal","Taliban","1838",742,1359,0
+"718","Kandi","Taliban","1838",454,1359,0
+"719","Kandi","Taliban","2610",454,1359,0
+"720","Kandikhel","Taliban","2610",216,1359,0
+"721","Kando","Taliban","2610",796,1359,0
+"722","Kanguri","Taliban","2610",1120,1359,0
+"723","Kanjo","Taliban","2610",1319,1359,0
+"724","Kankuh","Taliban","2610",573,1359,0
+"725","Kansak","Taliban","1838",703,1359,0
+"726","Kansak","Taliban","2610",703,1359,0
+"727","Karany","Taliban","2610",138,1359,0
+"728","Karborai","Taliban","2610",1254,1359,0
+"729","Karez","Taliban","1838",59,1359,0
+"730","Karez","Taliban","2610",59,1359,0
+"731","Karez Doghi","Taliban","2610",515,1359,0
+"732","Karez Elyas","Taliban","1838",367,1359,0
+"733","Karez Elyas","Taliban","2610",367,1359,0
+"734","Karez I Qala","Taliban","2610",550,1359,0
+"735","Karezak","Taliban","2610",1240,1359,0
+"736","Kareze Saydi","Taliban","1838",491,1359,0
+"737","Karim Daad","Taliban","2610",230,1359,0
+"738","Karimdad","Taliban","2610",987,1359,0
+"739","Kariz","Taliban","1838",1294,1359,0
+"740","Karokhil","Taliban","2610",1140,1359,0
+"741","Karshak","Taliban","2610",1265,1359,0
+"742","Karso","Taliban","1838",1348,1359,0
+"743","Kart-e-Faizabad","Taliban","2610",361,1359,0
+"744","Karukh","Taliban","1838",547,1359,0
+"745","Karukh","Taliban","2610",547,1359,0
+"746","Karukh district","Taliban","1838",895,1359,0
+"747","Karwangah","Taliban","1838",513,1359,0
+"748","Karz","Taliban","2610",381,1359,0
+"749","Karzai Kotal","Taliban","1838",229,1359,0
+"750","Kashkak Duaab","Taliban","2610",474,1359,0
+"751","Kata-e Lang","Taliban","1838",1028,1359,0
+"752","Kechi","Taliban","2610",1228,1359,0
+"753","Keshem","Taliban","2610",406,1359,0
+"754","Keshi","Taliban","1838",885,1359,0
+"755","Khafizan","Taliban","2610",924,1359,0
+"756","Khair Khana","Taliban","1838",33,1359,0
+"757","Khair Khana","Taliban","2610",33,1359,0
+"758","Khairabad","Taliban","1838",1219,1359,0
+"759","Khak-e Afghan","Taliban","2610",39,1359,0
+"760","Khak-e Chupan","Taliban","2610",587,1359,0
+"761","Khak Chopan","Taliban","2610",192,1359,0
+"762","Khak Yarak","Taliban","1838",1179,1359,0
+"763","Khaki Safed","Taliban","1838",497,1359,0
+"764","Khaki Safed","Taliban","2610",497,1359,0
+"765","Khaki Safed district","Taliban","1838",313,1359,0
+"766","Khaki Safed district","Taliban","2610",313,1359,0
+"767","Khakrez","Taliban","1838",29,1359,0
+"768","Khakrez","Taliban","2610",29,1359,0
+"769","Khakrez district","Taliban","1838",727,1359,0
+"770","Khakrez district","Taliban","2610",727,1359,0
+"771","Khala","Taliban","1838",208,1359,0
+"772","Khamyab district","Taliban","1838",436,1359,0
+"773","Khamyab district","Taliban","2610",436,1359,0
+"774","Khan Kalai","Taliban","2610",467,1359,0
+"775","Khan Kelay","Taliban","1838",926,1359,0
+"776","Khan Shine","Taliban","1838",106,1359,0
+"777","Khan Zaman Khan","Taliban","1838",850,1359,0
+"778","Khanabad","Taliban","1838",271,1359,0
+"779","Khanabad","Taliban","2610",271,1359,0
+"780","Khanabad district","Taliban","1838",624,1359,0
+"781","Khanabad district","Taliban","2610",624,1359,0
+"782","Khanashin","Taliban","2610",728,1359,0
+"783","Khani Chahar Bagh district","Taliban","1838",1223,1359,0
+"784","Khannesin","Taliban","1838",942,1359,0
+"785","Khannesin","Taliban","2610",942,1359,0
+"786","Khannesin district","Taliban","1838",650,1359,0
+"787","Khannesin district","Taliban","2610",650,1359,0
+"788","Khar Nikah","Taliban","2610",371,1359,0
+"789","Kharaba","Taliban","1838",1027,1359,0
+"790","Kharr Kali","Taliban","2610",904,1359,0
+"791","Kharwar district","Taliban","1838",1045,1359,0
+"792","Khas Kunar","Taliban","1838",214,1359,0
+"793","Khas Kunar district","Taliban","1838",744,1359,0
+"794","Khas Kunar district","Taliban","2610",744,1359,0
+"795","Khas Uruzgan","Taliban","1838",37,1359,0
+"796","Khas Uruzgan","Taliban","2610",37,1359,0
+"797","Khas Uruzgan district","Taliban","1838",638,1359,0
+"798","Khas Uruzgan district","Taliban","2610",638,1359,0
+"799","Khash Rod","Taliban","1838",185,1359,0
+"800","Khash Rod","Taliban","2610",185,1359,0
+"801","Khash Rod district","Taliban","1838",85,1359,0
+"802","Khash Rod district","Taliban","2610",85,1359,0
+"803","Khawaja Kainti","Taliban","1838",674,1359,0
+"804","Khawe Kamar","Taliban","2610",447,1359,0
+"805","Khayr Kot","Taliban","2610",225,1359,0
+"806","Kher","Taliban","2610",1126,1359,0
+"807","Khodja Baha ud din","Taliban","2610",2,1359,0
+"808","Khogyani","Taliban","1838",114,1359,0
+"809","Khogyani","Taliban","2610",114,1359,0
+"810","Khogyani district","Taliban","1838",99,1359,0
+"811","Khogyani district","Taliban","2610",99,1359,0
+"812","Khokab","Taliban","1838",1278,1359,0
+"813","Khormalol","Taliban","1838",353,1359,0
+"814","Khoshamand","Taliban","1838",328,1359,0
+"815","Khoshamand","Taliban","2610",328,1359,0
+"816","Khoshamand district","Taliban","1838",826,1359,0
+"817","Khoshamand district","Taliban","2610",826,1359,0
+"818","Khost","Taliban","1838",4,1359,0
+"819","Khost","Taliban","2610",4,1359,0
+"820","Khost district","Taliban","2610",319,1359,0
+"821","Khowaja Alwan","Taliban","1838",1241,1359,0
+"822","Khowaja Gogerdak","Taliban","1838",1127,1359,0
+"823","Khugyani district","Taliban","1838",753,1359,0
+"824","Khugyani district","Taliban","2610",753,1359,0
+"825","Khurwar","Taliban","1838",197,1359,0
+"826","Khushal Khel","Taliban","2610",1292,1359,0
+"827","Khushamand","Taliban","2610",945,1359,0
+"828","Khushi district","Taliban","2610",1306,1359,0
+"829","Khushk","Taliban","2610",858,1359,0
+"830","Khvoshab","Taliban","2610",407,1359,0
+"831","Khwaja Baha Wuddin district","Taliban","1838",869,1359,0
+"832","Khwaja Baha Wuddin district","Taliban","2610",869,1359,0
+"833","Khwaja Du Koh district","Taliban","1838",814,1359,0
+"834","Khwaja Ghaltan","Taliban","2610",1133,1359,0
+"835","Khwaja Ghar district","Taliban","1838",337,1359,0
+"836","Khwaja Ghar district","Taliban","2610",337,1359,0
+"837","Khwaja Gugerdak","Taliban","1838",914,1359,0
+"838","Khwaja Orya","Taliban","2610",390,1359,0
+"839","Khwaja Sabz Posh district","Taliban","1838",670,1359,0
+"840","Khwaja Sabz Posh district","Taliban","2610",670,1359,0
+"841","Khwaja Sahib","Taliban","1838",1295,1359,0
+"842","Khwaja Umari district","Taliban","1838",1163,1359,0
+"843","Khwaja Zaid","Taliban","1838",444,1359,0
+"844","Kiki Kotal","Taliban","1838",1322,1359,0
+"845","Kinisk","Taliban","1838",571,1359,0
+"846","Kishim","Taliban","2610",288,1359,0
+"847","Kishindih district","Taliban","1838",295,1359,0
+"848","Kobar","Taliban","1838",456,1359,0
+"849","Kodalay","Taliban","1838",1338,1359,0
+"850","Koh-I Kanda","Taliban","1838",480,1359,0
+"851","Koh Sayad","Taliban","1838",1200,1359,0
+"852","Koh Sayad","Taliban","2610",1200,1359,0
+"853","Kohak","Taliban","1838",932,1359,0
+"854","Kohi Safi district","Taliban","1838",171,1359,0
+"855","Kohistan district","Taliban","1838",1307,1359,0
+"856","Kohistanat district","Taliban","1838",785,1359,0
+"857","Kohistanat district","Taliban","2610",785,1359,0
+"858","Kohna","Taliban","2610",819,1359,0
+"859","Kohsan district","Taliban","1838",1115,1359,0
+"860","Kolagu","Taliban","2610",1152,1359,0
+"861","Korangal","Taliban","1838",103,1359,0
+"862","Korghan","Taliban","2610",693,1359,0
+"863","Koshki Kohna district","Taliban","1838",1095,1359,0
+"864","Kotal","Taliban","2610",1185,1359,0
+"865","Kotal Siah","Taliban","1838",1290,1359,0
+"866","Kotihkhel","Taliban","2610",410,1359,0
+"867","Kozbahar","Taliban","2610",820,1359,0
+"868","Kufki","Taliban","1838",1176,1359,0
+"869","Kukal Dash","Taliban","1838",1199,1359,0
+"870","Kundi Raji","Taliban","2610",668,1359,0
+"871","Kundir","Taliban","1838",979,1359,0
+"872","Kunduz","Taliban","1838",128,1359,0
+"873","Kunduz","Taliban","2610",128,1359,0
+"874","Kunjak","Taliban","2610",1217,1359,0
+"875","Kuran Wa Munjan","Taliban","1838",768,1359,0
+"876","Kuran Wa Munjan district","Taliban","1838",965,1359,0
+"877","Kusah Qala","Taliban","2610",1337,1359,0
+"878","Kushk district","Taliban","1838",357,1359,0
+"879","Kushk district","Taliban","2610",357,1359,0
+"880","Kushki Kuhna district","Taliban","1838",808,1359,0
+"881","Kuz Tasan","Taliban","1838",917,1359,0
+"882","Lab Dara","Taliban","1838",1131,1359,0
+"883","Labak","Taliban","1838",1249,1359,0
+"884","Laghawat","Taliban","1838",1096,1359,0
+"885","Laja Ahmad Khail district","Taliban","2610",859,1359,0
+"886","Lakan","Taliban","1838",284,1359,0
+"887","Lakari","Taliban","2610",844,1359,0
+"888","Lakarkhel","Taliban","1838",365,1359,0
+"889","Lakhshak","Taliban","2610",759,1359,0
+"890","Lal Por district","Taliban","1838",1181,1359,0
+"891","Lal Pur","Taliban","1838",322,1359,0
+"892","Lal Pur","Taliban","2610",322,1359,0
+"893","Lala Maydan","Taliban","1838",908,1359,0
+"894","Lalakhel","Taliban","1838",685,1359,0
+"895","Lalmi","Taliban","2610",14,1359,0
+"896","Landwan","Taliban","1838",1274,1359,0
+"897","Langar","Taliban","2610",1329,1359,0
+"898","Larkhabi","Taliban","2610",841,1359,0
+"899","Lash Wa Juwayn","Taliban","1838",201,1359,0
+"900","Lash Wa Juwayn district","Taliban","1838",711,1359,0
+"901","Lash Wa Juwayn district","Taliban","2610",711,1359,0
+"902","Lashk Gah","Taliban","2610",572,1359,0
+"903","Lashkar Gah","Taliban","1838",10,1359,0
+"904","Lashkar Gah","Taliban","2610",10,1359,0
+"905","Latif","Taliban","1838",317,1359,0
+"906","Lodino","Taliban","1838",437,1359,0
+"907","Logh Dara","Taliban","2610",346,1359,0
+"908","Loy Wala","Taliban","1838",122,1359,0
+"909","Loymanda","Taliban","1838",1173,1359,0
+"910","Mahmud Raqi","Taliban","1838",420,1359,0
+"911","Mahmud Raqi","Taliban","2610",420,1359,0
+"912","Mahtab","Taliban","1838",1076,1359,0
+"913","Maidani","Taliban","1838",734,1359,0
+"914","Maidani","Taliban","2610",734,1359,0
+"915","Makhigir","Taliban","2610",1067,1359,0
+"916","Maldar","Taliban","1838",1017,1359,0
+"917","Malgir","Taliban","1838",609,1359,0
+"918","Malgoti","Taliban","2610",894,1359,0
+"919","Mali Khel","Taliban","2610",443,1359,0
+"920","Mama Kariz","Taliban","2610",618,1359,0
+"921","Managi","Taliban","1838",499,1359,0
+"922","Manar","Taliban","1838",1137,1359,0
+"923","Manar","Taliban","2610",1137,1359,0
+"924","Mandisar","Taliban","1838",184,1359,0
+"925","Mando Zayi","Taliban","2610",368,1359,0
+"926","Mando Zayi district","Taliban","2610",773,1359,0
+"927","Mandowzi","Taliban","2610",266,1359,0
+"928","Mangajek district","Taliban","1838",656,1359,0
+"929","Mangajek district","Taliban","2610",656,1359,0
+"930","Mango","Taliban","2610",1041,1359,0
+"931","Mano Gai","Taliban","2610",575,1359,0
+"932","Manogai","Taliban","2610",591,1359,0
+"933","Manogay","Taliban","1838",147,1359,0
+"934","Manogay","Taliban","2610",147,1359,0
+"935","Manogi","Taliban","2610",756,1359,0
+"936","Manzil","Taliban","1838",958,1359,0
+"937","Maqbal","Taliban","1838",1145,1359,0
+"938","Mar Ghondai","Taliban","2610",1269,1359,0
+"939","Marabad","Taliban","1838",1093,1359,0
+"940","Marawara","Taliban","1838",562,1359,0
+"941","Marawara","Taliban","2610",562,1359,0
+"942","Marawara district","Taliban","1838",695,1359,0
+"943","Marawara district","Taliban","2610",695,1359,0
+"944","Marchak","Taliban","1838",1064,1359,0
+"945","Marchak","Taliban","2610",1064,1359,0
+"946","Mardyan district","Taliban","1838",778,1359,0
+"947","Marja","Taliban","2610",282,1359,0
+"948","Marjah","Taliban","1838",388,1359,0
+"949","Marjah","Taliban","2610",388,1359,0
+"950","Marjah district","Taliban","1838",678,1359,0
+"951","Marjah district","Taliban","2610",678,1359,0
+"952","Marko","Taliban","1838",893,1359,0
+"953","Maruf","Taliban","2610",552,1359,0
+"954","Maruf district","Taliban","1838",511,1359,0
+"955","Maruf district","Taliban","2610",511,1359,0
+"956","Masao","Taliban","2610",867,1359,0
+"957","Masaw","Taliban","1838",1026,1359,0
+"958","Masayi","Taliban","2610",112,1359,0
+"959","Masayi district","Taliban","2610",332,1359,0
+"960","Mashin Qala","Taliban","2610",792,1359,0
+"961","Masjed-e Chubi","Taliban","1838",1110,1359,0
+"962","Mast Qala","Taliban","2610",1195,1359,0
+"963","Mata Khan district","Taliban","2610",794,1359,0
+"964","Mataki","Taliban","2610",358,1359,0
+"965","Matta Khan","Taliban","2610",490,1359,0
+"966","Maydan Shahr","Taliban","1838",154,1359,0
+"967","Maydan Shahr","Taliban","2610",154,1359,0
+"968","Maydani","Taliban","1838",962,1359,0
+"969","Maymana","Taliban","1838",405,1359,0
+"970","Maymana","Taliban","2610",405,1359,0
+"971","Maymana district","Taliban","2610",517,1359,0
+"972","Maywand","Taliban","1838",218,1359,0
+"973","Maywand","Taliban","2610",218,1359,0
+"974","Maywand district","Taliban","1838",53,1359,0
+"975","Maywand district","Taliban","2610",53,1359,0
+"976","Mazar","Taliban","2610",881,1359,0
+"977","Mazarabad","Taliban","1838",457,1359,0
+"978","Mazari Sharif","Taliban","1838",180,1359,0
+"979","Mazari Sharif","Taliban","2610",180,1359,0
+"980","Mazgin","Taliban","2610",1275,1359,0
+"981","Mazu","Taliban","1838",65,1359,0
+"982","Meiana area","Taliban","2610",644,1359,0
+"983","Memla","Taliban","1838",347,1359,0
+"984","Memla","Taliban","2610",347,1359,0
+"985","Meran","Taliban","2610",1051,1359,0
+"986","Messo","Taliban","1838",1164,1359,0
+"987","Miankoh","Taliban","2610",896,1359,0
+"988","Mihtarlam","Taliban","1838",40,1359,0
+"989","Mihtarlam","Taliban","2610",40,1359,0
+"990","Mihtarlam district","Taliban","1838",687,1359,0
+"991","Mingajik","Taliban","2610",257,1359,0
+"992","Mir'ali","Taliban","2610",348,1359,0
+"993","Mir Abad","Taliban","1838",929,1359,0
+"994","Mir Ali","Taliban","1838",465,1359,0
+"995","Mir Ali","Taliban","2610",465,1359,0
+"996","Mir Khan","Taliban","2610",764,1359,0
+"997","Mirandab","Taliban","1838",543,1359,0
+"998","Mirandab","Taliban","2610",543,1359,0
+"999","Miri","Taliban","2610",133,1359,0
+"1000","Mirkhan","Taliban","2610",829,1359,0
+"1001","Mirogul Kalay","Taliban","2610",918,1359,0
+"1002","Missezai","Taliban","2610",622,1359,0
+"1003","Mizan","Taliban","1838",35,1359,0
+"1004","Mizan district","Taliban","1838",141,1359,0
+"1005","Mizan district","Taliban","2610",141,1359,0
+"1006","Mohammad Aga district","Taliban","1838",1035,1359,0
+"1007","Mohammad Agha district","Taliban","1838",836,1359,0
+"1008","Mohammad Agha district","Taliban","2610",836,1359,0
+"1009","Mohammad Omar","Taliban","1838",1345,1359,0
+"1010","Mohmand Kotal","Taliban","1838",464,1359,0
+"1011","Molazai","Taliban","2610",810,1359,0
+"1012","Moqbil","Taliban","1838",1180,1359,0
+"1013","Moqori","Taliban","1838",222,1359,0
+"1014","Morchay","Taliban","1838",1332,1359,0
+"1015","Morghab district","Taliban","1838",560,1359,0
+"1016","Morghab district","Taliban","2610",560,1359,0
+"1017","Mori","Taliban","2610",799,1359,0
+"1018","Mosa Khail district","Taliban","1838",440,1359,0
+"1019","Mosa Khail district","Taliban","2610",440,1359,0
+"1020","Muhammad Agha","Taliban","1838",243,1359,0
+"1021","Muhammad Agha","Taliban","2610",243,1359,0
+"1022","Muhammad Agha district","Taliban","2610",879,1359,0
+"1023","Muhmand Dara district","Taliban","1838",190,1359,0
+"1024","Muhmand Dara district","Taliban","2610",190,1359,0
+"1025","Mukhtar Qala","Taliban","2610",963,1359,0
+"1026","Mulla Abdallah","Taliban","2610",691,1359,0
+"1027","Mullah Aman","Taliban","1838",1262,1359,0
+"1028","Mullah Ghulam","Taliban","1838",1350,1359,0
+"1029","Mullah Jana","Taliban","2610",864,1359,0
+"1030","Mullah Masaud","Taliban","1838",60,1359,0
+"1031","Mullah Wali Muhammad Wayala","Taliban","2610",1297,1359,0
+"1032","Muqur","Taliban","1838",253,1359,0
+"1033","Muqur","Taliban","2610",253,1359,0
+"1034","Muqur district","Taliban","1838",21,1359,0
+"1035","Muqur district","Taliban","2610",21,1359,0
+"1036","Murghab","Taliban","1838",267,1359,0
+"1037","Murghab district","Taliban","1838",139,1359,0
+"1038","Musa Qala","Taliban","2610",569,1359,0
+"1039","Musa Qala district","Taliban","1838",77,1359,0
+"1040","Musa Qala district","Taliban","2610",77,1359,0
+"1041","Musayi district","Taliban","2610",927,1359,0
+"1042","Musazai","Taliban","2610",466,1359,0
+"1043","Mushan","Taliban","1838",743,1359,0
+"1044","Musulmani","Taliban","2610",450,1359,0
+"1045","Nad Ali","Taliban","1838",153,1359,0
+"1046","Nad Ali","Taliban","2610",153,1359,0
+"1047","Nad Ali district","Taliban","1838",75,1359,0
+"1048","Nad Ali district","Taliban","2610",75,1359,0
+"1049","Nad Ali District","Taliban","2610",173,1359,0
+"1050","Nadarabad","Taliban","1838",1204,1359,0
+"1051","Nadir Shah Kot","Taliban","1838",265,1359,0
+"1052","Nadir Shah Kot","Taliban","2610",265,1359,0
+"1053","Nadir Shah Kot district","Taliban","2610",83,1359,0
+"1054","Nahar Kohna","Taliban","2610",1264,1359,0
+"1055","Nahri Karez","Taliban","1838",412,1359,0
+"1056","Nahri Saraj","Taliban","1838",537,1359,0
+"1057","Nahri Saraj district","Taliban","1838",281,1359,0
+"1058","Nahri Saraj district","Taliban","2610",281,1359,0
+"1059","Nahri Saufi","Taliban","2610",435,1359,0
+"1060","Nahri Shahi district","Taliban","2610",311,1359,0
+"1061","Nahrin district","Taliban","2610",136,1359,0
+"1062","Naikan","Taliban","1838",1088,1359,0
+"1063","Nangabad","Taliban","1838",831,1359,0
+"1064","Nani","Taliban","1838",460,1359,0
+"1065","Naqilabad","Taliban","1838",1244,1359,0
+"1066","Narghal","Taliban","2610",1059,1359,0
+"1067","Nari","Taliban","2610",469,1359,0
+"1068","Nari district","Taliban","1838",507,1359,0
+"1069","Nari district","Taliban","2610",507,1359,0
+"1070","Nasro Qala","Taliban","2610",1283,1359,0
+"1071","Naw Bahar district","Taliban","2610",682,1359,0
+"1072","Naw Zad district","Taliban","1838",806,1359,0
+"1073","Naw Zad district","Taliban","2610",806,1359,0
+"1074","Nawa","Taliban","2610",586,1359,0
+"1075","Nawa-i-Barakzayi","Taliban","1838",331,1359,0
+"1076","Nawa-i-Barakzayi district","Taliban","1838",82,1359,0
+"1077","Nawa-i-Barakzayi district","Taliban","2610",82,1359,0
+"1078","Nawa district","Taliban","2610",429,1359,0
+"1079","Nawabad","Taliban","1838",763,1359,0
+"1080","Nawabad","Taliban","2610",763,1359,0
+"1081","Nawbahar","Taliban","1838",1261,1359,0
+"1082","Nawi Qala","Taliban","1838",1258,1359,0
+"1083","Nawkarez","Taliban","2610",993,1359,0
+"1084","Nawroz","Taliban","2610",912,1359,0
+"1085","Nawrozkhel","Taliban","1838",200,1359,0
+"1086","Nawzad","Taliban","2610",69,1359,0
+"1087","Nawzad district","Taliban","1838",377,1359,0
+"1088","Nawzad district","Taliban","2610",377,1359,0
+"1089","Nazar Kheil","Taliban","1838",66,1359,0
+"1090","Nazyan district","Taliban","1838",723,1359,0
+"1091","Nesh district","Taliban","1838",1341,1359,0
+"1092","Nijrab","Taliban","2610",268,1359,0
+"1093","Nijrab district","Taliban","2610",151,1359,0
+"1094","Nirkh district","Taliban","2610",134,1359,0
+"1095","Nomesh","Taliban","2610",50,1359,0
+"1096","Nowkhez","Taliban","2610",840,1359,0
+"1097","Nur Khail","Taliban","1838",1111,1359,0
+"1098","Nurgal district","Taliban","1838",428,1359,0
+"1099","Nurgal district","Taliban","2610",428,1359,0
+"1100","Nurgaram","Taliban","2610",815,1359,0
+"1101","Nurgaram district","Taliban","2610",1124,1359,0
+"1102","Obe","Taliban","1838",603,1359,0
+"1103","Obe district","Taliban","1838",372,1359,0
+"1104","Obe district","Taliban","2610",372,1359,0
+"1105","Omar","Taliban","2610",1308,1359,0
+"1106","Omna district","Taliban","1838",1061,1359,0
+"1107","Omna district","Taliban","2610",1061,1359,0
+"1108","Otara","Taliban","1838",530,1359,0
+"1109","Oz Khushk","Taliban","1838",23,1359,0
+"1110","Pachir Agam district","Taliban","1838",809,1359,0
+"1111","Pachir Agam district","Taliban","2610",809,1359,0
+"1112","Pachir Aw Agam","Taliban","2610",397,1359,0
+"1113","Pachir Aw Agam district","Taliban","2610",528,1359,0
+"1114","Pachir Wa Agam district","Taliban","1838",760,1359,0
+"1115","Pachir Wa Agam district","Taliban","2610",760,1359,0
+"1116","Padshah","Taliban","2610",1238,1359,0
+"1117","Paghmam","Taliban","2610",566,1359,0
+"1118","Paghman","Taliban","2610",165,1359,0
+"1119","Paghman district","Taliban","2610",1151,1359,0
+"1120","Pahlawan Tash","Taliban","1838",1153,1359,0
+"1121","Paikash","Taliban","1838",1019,1359,0
+"1122","Pakhtunabad","Taliban","1838",754,1359,0
+"1123","Pandola","Taliban","2610",1003,1359,0
+"1124","Panirak","Taliban","2610",355,1359,0
+"1125","Panj Shiri","Taliban","2610",341,1359,0
+"1126","Panjaw Qala","Taliban","2610",1015,1359,0
+"1127","Panjgow","Taliban","1838",798,1359,0
+"1128","Panjsher","Taliban","1838",1143,1359,0
+"1129","Panjsher Nawa","Taliban","1838",430,1359,0
+"1130","Panjshir Naw","Taliban","2610",1191,1359,0
+"1131","Panjwai","Taliban","1838",32,1359,0
+"1132","Panjwai","Taliban","2610",32,1359,0
+"1133","Panjwai district","Taliban","2610",8,1359,0
+"1134","Panjwayi","Taliban","2610",51,1359,0
+"1135","Paprok","Taliban","1838",536,1359,0
+"1136","Pasaband","Taliban","1838",340,1359,0
+"1137","Pasaband district","Taliban","1838",494,1359,0
+"1138","Pasawand","Taliban","1838",732,1359,0
+"1139","Pashad","Taliban","1838",392,1359,0
+"1140","Pashtun Kot","Taliban","1838",316,1359,0
+"1141","Pashtun Kot","Taliban","2610",316,1359,0
+"1142","Pashtun Kot district","Taliban","1838",680,1359,0
+"1143","Pashtun Kot district","Taliban","2610",680,1359,0
+"1144","Pashtun Zarghun district","Taliban","1838",741,1359,0
+"1145","Pashtun Zarghun district","Taliban","2610",741,1359,0
+"1146","Pass Sabar","Taliban","2610",459,1359,0
+"1147","Patan","Taliban","1838",615,1359,0
+"1148","Patan","Taliban","2610",615,1359,0
+"1149","Patan district","Taliban","1838",769,1359,0
+"1150","Pech district","Taliban","2610",770,1359,0
+"1151","Perzo","Taliban","1838",699,1359,0
+"1152","Petawak","Taliban","1838",1317,1359,0
+"1153","Pir Koti","Taliban","1838",1206,1359,0
+"1154","Pir Qadam","Taliban","1838",1197,1359,0
+"1155","Pirka","Taliban","2610",400,1359,0
+"1156","Podina","Taliban","2610",1038,1359,0
+"1157","Pole Sowz","Taliban","2610",1024,1359,0
+"1158","Popalzai","Taliban","2610",1323,1359,0
+"1159","Pul-e Ahmad Khan","Taliban","1838",726,1359,0
+"1160","Puli Alam","Taliban","1838",41,1359,0
+"1161","Puli Alam","Taliban","2610",41,1359,0
+"1162","Puli Alam district","Taliban","1838",860,1359,0
+"1163","Puli Alam district","Taliban","2610",860,1359,0
+"1164","Puli Khumri","Taliban","1838",102,1359,0
+"1165","Puli Khumri","Taliban","2610",102,1359,0
+"1166","Puli Khumri district","Taliban","2610",217,1359,0
+"1167","Puli Khwaja","Taliban","2610",501,1359,0
+"1168","Puli Moemin","Taliban","1838",1236,1359,0
+"1169","Puli Moemin","Taliban","2610",1236,1359,0
+"1170","Pur Chaman","Taliban","2610",606,1359,0
+"1171","Purdel","Taliban","2610",863,1359,0
+"1172","Pusht-e-Koh district","Taliban","2610",681,1359,0
+"1173","Pusht-i-Hassan","Taliban","1838",422,1359,0
+"1174","Pusht Rod","Taliban","1838",272,1359,0
+"1175","Pusht Rod","Taliban","2610",272,1359,0
+"1176","Pusht Rod district","Taliban","1838",448,1359,0
+"1177","Pusht Rod district","Taliban","2610",448,1359,0
+"1178","Qades","Taliban","1838",283,1359,0
+"1179","Qades District","Taliban","1838",34,1359,0
+"1180","Qadis district","Taliban","2610",736,1359,0
+"1181","Qal-ah-ye mirza jal","Taliban","2610",473,1359,0
+"1182","Qala-e Naw","Taliban","1838",1196,1359,0
+"1183","Qala-i-Najil","Taliban","2610",961,1359,0
+"1184","Qala-i-Naw","Taliban","2610",1305,1359,0
+"1185","Qala-i Khan","Taliban","2610",203,1359,0
+"1186","Qala-i Mirak","Taliban","2610",1257,1359,0
+"1187","Qala Baland","Taliban","2610",1168,1359,0
+"1188","Qala Haidar Khan","Taliban","1838",1276,1359,0
+"1189","Qala Jawz","Taliban","2610",1147,1359,0
+"1190","Qala Kah district","Taliban","2610",649,1359,0
+"1191","Qala Qazi","Taliban","2610",1020,1359,0
+"1192","Qala Sehra","Taliban","1838",868,1359,0
+"1193","Qala Sher","Taliban","2610",1165,1359,0
+"1194","Qalae Zal","Taliban","1838",718,1359,0
+"1195","Qalandar","Taliban","1838",110,1359,0
+"1196","Qalandar Khel","Taliban","1838",1116,1359,0
+"1197","Qalat","Taliban","1838",26,1359,0
+"1198","Qalat","Taliban","2610",26,1359,0
+"1199","Qalay-i-Zal","Taliban","1838",1271,1359,0
+"1200","Qalay-i-Zal district","Taliban","1838",988,1359,0
+"1201","Qamchi","Taliban","1838",482,1359,0
+"1202","Qarabagh","Taliban","1838",239,1359,0
+"1203","Qarabagh","Taliban","2610",239,1359,0
+"1204","Qarabagh district","Taliban","1838",137,1359,0
+"1205","Qarabagh district","Taliban","2610",137,1359,0
+"1206","Qarae","Taliban","1838",1053,1359,0
+"1207","Qaraghel","Taliban","2610",453,1359,0
+"1208","Qarah Yatim","Taliban","2610",1272,1359,0
+"1209","Qaramqol district","Taliban","1838",519,1359,0
+"1210","Qarga","Taliban","2610",1072,1359,0
+"1211","Qarghai","Taliban","2610",579,1359,0
+"1212","Qarghayi","Taliban","1838",202,1359,0
+"1213","Qarghayi district","Taliban","2610",956,1359,0
+"1214","Qari Sadi","Taliban","1838",878,1359,0
+"1215","Qari Sadi","Taliban","2610",878,1359,0
+"1216","Qasab","Taliban","2610",745,1359,0
+"1217","Qaysar","Taliban","2610",186,1359,0
+"1218","Qaysar district","Taliban","1838",378,1359,0
+"1219","Qaysar district","Taliban","2610",378,1359,0
+"1220","Qaysar Khel","Taliban","2610",1281,1359,0
+"1221","Qazaq","Taliban","1838",856,1359,0
+"1222","Qila Madad","Taliban","1838",1080,1359,0
+"1223","Qiresh","Taliban","1838",877,1359,0
+"1224","Quaryeh Shorab","Taliban","1838",1044,1359,0
+"1225","Qukal Dash","Taliban","1838",1243,1359,0
+"1226","Qurabagh district","Taliban","2610",1034,1359,0
+"1227","Qush Tepa district","Taliban","1838",690,1359,0
+"1228","Qush Tepa district","Taliban","2610",690,1359,0
+"1229","Qushtepa","Taliban","2610",493,1359,0
+"1230","Rabat","Taliban","1838",832,1359,0
+"1231","Rabat","Taliban","2610",832,1359,0
+"1232","Rabat-i-Sangi district","Taliban","1838",298,1359,0
+"1233","Rabatak","Taliban","1838",621,1359,0
+"1234","Rabatak","Taliban","2610",621,1359,0
+"1235","Raghistan district","Taliban","1838",1148,1359,0
+"1236","Rahim","Taliban","1838",1214,1359,0
+"1237","Raken","Taliban","1838",188,1359,0
+"1238","Ramak","Taliban","1838",906,1359,0
+"1239","Rashidan district","Taliban","2610",143,1359,0
+"1240","Rawza","Taliban","2610",349,1359,0
+"1241","Red district","Taliban","1838",902,1359,0
+"1242","Reg district","Taliban","1838",45,1359,0
+"1243","Regi","Taliban","1838",458,1359,0
+"1244","Registan district","Taliban","1838",919,1359,0
+"1245","Registan district","Taliban","2610",919,1359,0
+"1246","Renj","Taliban","1838",403,1359,0
+"1247","Rigreshin","Taliban","1838",1344,1359,0
+"1248","Rodat district","Taliban","2610",195,1359,0
+"1249","Rodbar","Taliban","2610",1201,1359,0
+"1250","Rustam","Taliban","1838",704,1359,0
+"1251","Ruyi Du Ab district","Taliban","2610",1349,1359,0
+"1252","Saaj Qala","Taliban","2610",612,1359,0
+"1253","Sabari","Taliban","1838",231,1359,0
+"1254","Sabari","Taliban","2610",231,1359,0
+"1255","Sabari district","Taliban","2610",174,1359,0
+"1256","Saberi","Taliban","2610",737,1359,0
+"1257","Saberi district","Taliban","2610",438,1359,0
+"1258","Sabz Sang","Taliban","2610",1029,1359,0
+"1259","Sachar","Taliban","1838",1284,1359,0
+"1260","Sadara","Taliban","1838",1335,1359,0
+"1261","Safa","Taliban","2610",696,1359,0
+"1262","Safar","Taliban","2610",413,1359,0
+"1263","Saghar district","Taliban","1838",1030,1359,0
+"1264","Saghar district","Taliban","2610",1030,1359,0
+"1265","Sah Rawan","Taliban","1838",930,1359,0
+"1266","Sahra","Taliban","1838",1225,1359,0
+"1267","Saidabad district","Taliban","2610",1136,1359,0
+"1268","Saj","Taliban","2610",504,1359,0
+"1269","Salampur","Taliban","1838",1194,1359,0
+"1270","Salang","Taliban","1838",608,1359,0
+"1271","Salang district","Taliban","1838",1300,1359,0
+"1272","Salar","Taliban","2610",677,1359,0
+"1273","Sali","Taliban","2610",1237,1359,0
+"1274","Salkatu","Taliban","1838",533,1359,0
+"1275","Sang Atesh","Taliban","1838",1250,1359,0
+"1276","Sangar","Taliban","1838",1216,1359,0
+"1277","Sangar Manda","Taliban","2610",1036,1359,0
+"1278","Sangcharak district","Taliban","1838",1193,1359,0
+"1279","Sangi Sar","Taliban","2610",131,1359,0
+"1280","Sangin","Taliban","1838",24,1359,0
+"1281","Sangin","Taliban","2610",24,1359,0
+"1282","Sangin district","Taliban","1838",72,1359,0
+"1283","Sangin district","Taliban","2610",72,1359,0
+"1284","Sao","Taliban","2610",995,1359,0
+"1285","Sar-e Rawza district","Taliban","2610",1135,1359,0
+"1286","Sar Banader","Taliban","1838",1304,1359,0
+"1287","Sar Banader","Taliban","2610",1304,1359,0
+"1288","Sar Band","Taliban","2610",323,1359,0
+"1289","Sar Hawza","Taliban","2610",721,1359,0
+"1290","Sar Hawza district","Taliban","1838",206,1359,0
+"1291","Sar Hawza district","Taliban","2610",206,1359,0
+"1292","Sar Howza","Taliban","2610",757,1359,0
+"1293","Sar Marda","Taliban","2610",47,1359,0
+"1294","Sara Kala","Taliban","1838",1172,1359,0
+"1295","Sara Qala","Taliban","2610",648,1359,0
+"1296","Sarab","Taliban","1838",551,1359,0
+"1297","Sarab","Taliban","2610",551,1359,0
+"1298","Sarabzel","Taliban","1838",44,1359,0
+"1299","Sarak-e-Bala","Taliban","1838",1102,1359,0
+"1300","Sarakhakh","Taliban","1838",807,1359,0
+"1301","Sarchi","Taliban","1838",1215,1359,0
+"1302","Sardar","Taliban","2610",212,1359,0
+"1303","Sarhoza district","Taliban","1838",694,1359,0
+"1304","Sari Pul","Taliban","1838",713,1359,0
+"1305","Sari Pul","Taliban","2610",713,1359,0
+"1306","Sari Pul district","Taliban","1838",325,1359,0
+"1307","Sari Pul district","Taliban","2610",325,1359,0
+"1308","Sari Sang","Taliban","1838",521,1359,0
+"1309","Sari Sang","Taliban","2610",521,1359,0
+"1310","Sarkani","Taliban","2610",740,1359,0
+"1311","Sarkani district","Taliban","1838",686,1359,0
+"1312","Sarkani district","Taliban","2610",686,1359,0
+"1313","Sarkano","Taliban","1838",376,1359,0
+"1314","Sarkar Vialla","Taliban","2610",890,1359,0
+"1315","Sarobi district","Taliban","2610",1188,1359,0
+"1316","Sarsini Kotal","Taliban","1838",1006,1359,0
+"1317","Sarwan Kala","Taliban","1838",729,1359,0
+"1318","Sarwan Kala","Taliban","2610",729,1359,0
+"1319","Sawo","Taliban","2610",1239,1359,0
+"1320","Sayadan","Taliban","2610",236,1359,0
+"1321","Saydabad","Taliban","1838",539,1359,0
+"1322","Saydabad","Taliban","2610",539,1359,0
+"1323","Saydabad district","Taliban","1838",356,1359,0
+"1324","Saydabad district","Taliban","2610",356,1359,0
+"1325","Sayed Karam district","Taliban","2610",1178,1359,0
+"1326","Sayid Karam","Taliban","1838",255,1359,0
+"1327","Sayid Karam district","Taliban","1838",159,1359,0
+"1328","Sayid Karam district","Taliban","2610",159,1359,0
+"1329","Sayrwan","Taliban","2610",971,1359,0
+"1330","Sayyad district","Taliban","1838",679,1359,0
+"1331","Seema Taam","Taliban","2610",1182,1359,0
+"1332","Seghan","Taliban","2610",1156,1359,0
+"1333","Senjetak","Taliban","2610",380,1359,0
+"1334","Sestani","Taliban","1838",900,1359,0
+"1335","Seya Gerd","Taliban","2610",866,1359,0
+"1336","Shadal Bazaar","Taliban","1838",659,1359,0
+"1337","Shah Hasankhel","Taliban","2610",892,1359,0
+"1338","Shah Joy","Taliban","1838",254,1359,0
+"1339","Shah Joy","Taliban","2610",254,1359,0
+"1340","Shah Joy district","Taliban","1838",101,1359,0
+"1341","Shah Joy district","Taliban","2610",101,1359,0
+"1342","Shah Mirza","Taliban","1838",766,1359,0
+"1343","Shah Tegh","Taliban","1838",1298,1359,0
+"1344","Shah Wali Kot district","Taliban","1838",74,1359,0
+"1345","Shah Wali Kot district","Taliban","2610",74,1359,0
+"1346","Shah Wali Kot District","Taliban","2610",20,1359,0
+"1347","Shahabuddin","Taliban","1838",1221,1359,0
+"1348","Shahabuddin","Taliban","2610",1221,1359,0
+"1349","Shahada district","Taliban","1838",1227,1359,0
+"1350","Shahark district","Taliban","1838",209,1359,0
+"1351","Shahban","Taliban","2610",822,1359,0
+"1352","Shaheed Mohsin","Taliban","1838",1247,1359,0
+"1353","Shahi Khel","Taliban","2610",1312,1359,0
+"1354","Shahidi Hasas district","Taliban","1838",158,1359,0
+"1355","Shahidi Hassas district","Taliban","1838",382,1359,0
+"1356","Shahidi Hassas district","Taliban","2610",382,1359,0
+"1357","Shahjoy","Taliban","2610",432,1359,0
+"1358","Shahjoy district","Taliban","1838",12,1359,0
+"1359","Shahjoy district","Taliban","2610",12,1359,0
+"1360","Shahley Nawa","Taliban","1838",1107,1359,0
+"1361","Shahr-e Kuhnah","Taliban","1838",941,1359,0
+"1362","Shahr-e Safa","Taliban","1838",145,1359,0
+"1363","Shahr-e Safa","Taliban","2610",145,1359,0
+"1364","Shahr-e Safa district","Taliban","2610",1052,1359,0
+"1365","Shahrak","Taliban","1838",712,1359,0
+"1366","Shahrak district","Taliban","1838",948,1359,0
+"1367","Shahrak district","Taliban","2610",948,1359,0
+"1368","Shahre Kohna","Taliban","1838",1260,1359,0
+"1369","Shahwal","Taliban","2610",414,1359,0
+"1370","Shaigal Aw Shiltan district","Taliban","1838",801,1359,0
+"1371","Shair Ali Kariz","Taliban","2610",1159,1359,0
+"1372","Shakar Shela","Taliban","2610",1004,1359,0
+"1373","Shakh","Taliban","1838",833,1359,0
+"1374","Shakh","Taliban","2610",833,1359,0
+"1375","Shakin","Taliban","2610",27,1359,0
+"1376","Shakot","Taliban","1838",1170,1359,0
+"1377","Shalghamay","Taliban","2610",938,1359,0
+"1378","Shamal Gah","Taliban","1838",960,1359,0
+"1379","Shamazai","Taliban","2610",558,1359,0
+"1380","Shambawat","Taliban","2610",120,1359,0
+"1381","Shamulzayi","Taliban","2610",232,1359,0
+"1382","Shamulzayi district","Taliban","1838",126,1359,0
+"1383","Shamulzayi district","Taliban","2610",126,1359,0
+"1384","Shandak Manda","Taliban","1838",1355,1359,0
+"1385","Shandak Manda","Taliban","2610",1355,1359,0
+"1386","Shaplogh","Taliban","2610",978,1359,0
+"1387","Sharan","Taliban","1838",62,1359,0
+"1388","Sharan","Taliban","2610",62,1359,0
+"1389","Sharana","Taliban","1838",354,1359,0
+"1390","Sharana","Taliban","2610",354,1359,0
+"1391","Sharmat Khel","Taliban","2610",1001,1359,0
+"1392","Shash Gao","Taliban","1838",1169,1359,0
+"1393","Shash Khel","Taliban","2610",992,1359,0
+"1394","Shatar","Taliban","1838",1171,1359,0
+"1395","Shaydai","Taliban","1838",920,1359,0
+"1396","Shaygal Wa Shiltan district","Taliban","1838",1187,1359,0
+"1397","Shaygal Wa Shiltan district","Taliban","2610",1187,1359,0
+"1398","Shaykh Zai","Taliban","2610",977,1359,0
+"1399","Sheberghan","Taliban","1838",544,1359,0
+"1400","Sheberghan","Taliban","2610",544,1359,0
+"1401","Sheikhabad","Taliban","1838",15,1359,0
+"1402","Sheikhabad","Taliban","2610",15,1359,0
+"1403","Sheikhan","Taliban","2610",747,1359,0
+"1404","Shekh Ali","Taliban","1838",597,1359,0
+"1405","Shelgar area","Taliban","2610",646,1359,0
+"1406","Shelli","Taliban","1838",478,1359,0
+"1407","Shembavot","Taliban","2610",629,1359,0
+"1408","Shepano Kala","Taliban","1838",1078,1359,0
+"1409","Sher Baik","Taliban","1838",274,1359,0
+"1410","Sher Beg","Taliban","1838",1183,1359,0
+"1411","Sher Khan","Taliban","2610",1303,1359,0
+"1412","Sherbak","Taliban","1838",476,1359,0
+"1413","Shergul","Taliban","2610",996,1359,0
+"1414","Sherzab district","Taliban","2610",500,1359,0
+"1415","Sherzad district","Taliban","1838",263,1359,0
+"1416","Sherzad district","Taliban","2610",263,1359,0
+"1417","Shewan","Taliban","1838",46,1359,0
+"1418","Shewan","Taliban","2610",46,1359,0
+"1419","Shibirghan","Taliban","1838",451,1359,0
+"1420","Shibirghan","Taliban","2610",451,1359,0
+"1421","Shibirghan district","Taliban","1838",943,1359,0
+"1422","Shibirghan district","Taliban","2610",943,1359,0
+"1423","Shigal","Taliban","1838",561,1359,0
+"1424","Shigal district","Taliban","2610",838,1359,0
+"1425","Shin Ghazak","Taliban","2610",667,1359,0
+"1426","Shindand","Taliban","1838",324,1359,0
+"1427","Shindand","Taliban","2610",324,1359,0
+"1428","Shindand district","Taliban","1838",58,1359,0
+"1429","Shindand district","Taliban","2610",58,1359,0
+"1430","Shinkay","Taliban","1838",191,1359,0
+"1431","Shinkay district","Taliban","1838",109,1359,0
+"1432","Shinkay district","Taliban","2610",109,1359,0
+"1433","Shinkot","Taliban","1838",470,1359,0
+"1434","Shinwar district","Taliban","1838",671,1359,0
+"1435","Shinwar district","Taliban","2610",671,1359,0
+"1436","Shinwari","Taliban","1838",527,1359,0
+"1437","Shinwari","Taliban","2610",527,1359,0
+"1438","Shinwari district","Taliban","1838",637,1359,0
+"1439","Shinwari district","Taliban","2610",637,1359,0
+"1440","Shir Kala","Taliban","2610",1213,1359,0
+"1441","Shirin Tagab","Taliban","1838",221,1359,0
+"1442","Shirin Tagab","Taliban","2610",221,1359,0
+"1443","Shirin Tagab district","Taliban","1838",616,1359,0
+"1444","Shirin Tagab district","Taliban","2610",616,1359,0
+"1445","Shirwan","Taliban","1838",439,1359,0
+"1446","Shirzad district","Taliban","2610",1013,1359,0
+"1447","Shobar","Taliban","2610",416,1359,0
+"1448","Shokhi","Taliban","2610",424,1359,0
+"1449","Sholgara","Taliban","1838",213,1359,0
+"1450","Sholgara","Taliban","2610",213,1359,0
+"1451","Sholgara district","Taliban","2610",1005,1359,0
+"1452","Shor Tepa","Taliban","2610",595,1359,0
+"1453","Shorabak district","Taliban","1838",665,1359,0
+"1454","Shorabak district","Taliban","2610",665,1359,0
+"1455","Shpola Pul","Taliban","2610",702,1359,0
+"1456","Shukvani","Taliban","1838",635,1359,0
+"1457","Shurandam","Taliban","2610",290,1359,0
+"1458","Shwak","Taliban","1838",146,1359,0
+"1459","Shwak district","Taliban","2610",326,1359,0
+"1460","Si Av","Taliban","1838",607,1359,0
+"1461","Sia Gird","Taliban","2610",1252,1359,0
+"1462","Siagerd district","Taliban","1838",654,1359,0
+"1463","Siah Choi","Taliban","2610",897,1359,0
+"1464","Siah Gerd","Taliban","1838",553,1359,0
+"1465","Siah Gerd district","Taliban","2610",505,1359,0
+"1466","Siahgard district","Taliban","1838",730,1359,0
+"1467","Sirkanay","Taliban","1838",289,1359,0
+"1468","Sirkanay district","Taliban","2610",386,1359,0
+"1469","Sistani","Taliban","2610",541,1359,0
+"1470","Siyachoi","Taliban","2610",389,1359,0
+"1471","Soin Boldak district","Taliban","2610",790,1359,0
+"1472","Soli","Taliban","2610",502,1359,0
+"1473","Sori","Taliban","2610",227,1359,0
+"1474","Sozma Qala district","Taliban","1838",620,1359,0
+"1475","Sozyano","Taliban","2610",1109,1359,0
+"1476","Spedar","Taliban","1838",510,1359,0
+"1477","Spera district","Taliban","2610",333,1359,0
+"1478","Sperkai","Taliban","2610",1210,1359,0
+"1479","Spidar Nari","Taliban","2610",498,1359,0
+"1480","Spin Boldak","Taliban","1838",9,1359,0
+"1481","Spin Boldak","Taliban","2610",9,1359,0
+"1482","Spin Boldak district","Taliban","2610",36,1359,0
+"1483","Spin Ghabargah","Taliban","1838",28,1359,0
+"1484","Spin Ghar","Taliban","1838",245,1359,0
+"1485","Spin Ghar","Taliban","2610",245,1359,0
+"1486","Spin Ghbarg","Taliban","1838",1023,1359,0
+"1487","Spin Ghbarg","Taliban","2610",1023,1359,0
+"1488","Spin Jumat","Taliban","2610",520,1359,0
+"1489","Spin Kaney","Taliban","1838",880,1359,0
+"1490","Spina Garah","Taliban","2610",1157,1359,0
+"1491","Spinah","Taliban","1838",1094,1359,0
+"1492","Spinghar","Taliban","2610",865,1359,0
+"1493","Sreh Chahan","Taliban","1838",1324,1359,0
+"1494","Sultankhel","Taliban","1838",846,1359,0
+"1495","Sundurwa","Taliban","2610",593,1359,0
+"1496","Sur Baghal","Taliban","2610",1167,1359,0
+"1497","Surkh Rod","Taliban","1838",286,1359,0
+"1498","Surkh Rod","Taliban","2610",286,1359,0
+"1499","Surkh Rod district","Taliban","2610",975,1359,0
+"1500","Surkhakan","Taliban","2610",580,1359,0
+"1501","Surkhrod","Taliban","1838",716,1359,0
+"1502","Surobi","Taliban","2610",235,1359,0
+"1503","Surobi district","Taliban","1838",813,1359,0
+"1504","Surobi district","Taliban","2610",813,1359,0
+"1505","Syah Koshah","Taliban","2610",247,1359,0
+"1506","Syedwalo","Taliban","2610",884,1359,0
+"1507","Syuri","Taliban","2610",234,1359,0
+"1508","Tabili","Taliban","1838",1079,1359,0
+"1509","Tagab","Taliban","1838",812,1359,0
+"1510","Tagab Airak","Taliban","1838",1144,1359,0
+"1511","Tagab district","Taliban","1838",364,1359,0
+"1512","Tagab district","Taliban","2610",364,1359,0
+"1513","Tagab Shan","Taliban","1838",1293,1359,0
+"1514","Tagab Shan","Taliban","2610",1293,1359,0
+"1515","Tagab Yari","Taliban","1838",1289,1359,0
+"1516","Taghrok","Taliban","2610",1082,1359,0
+"1517","Tahiri","Taliban","1838",1255,1359,0
+"1518","Taimast","Taliban","1838",1318,1359,0
+"1519","Tajak","Taliban","1838",462,1359,0
+"1520","Takhta Pul","Taliban","2610",276,1359,0
+"1521","Takhteh Pol","Taliban","2610",776,1359,0
+"1522","Tala Bepak","Taliban","2610",308,1359,0
+"1523","Tala Wa Barfak district","Taliban","1838",1310,1359,0
+"1524","Taloqan","Taliban","1838",116,1359,0
+"1525","Taloqan","Taliban","2610",116,1359,0
+"1526","Taluqan","Taliban","2610",1123,1359,0
+"1527","Tambakol","Taliban","2610",1339,1359,0
+"1528","Tangi","Taliban","2610",343,1359,0
+"1529","Tangi Murch","Taliban","1838",1043,1359,0
+"1530","Tani","Taliban","1838",250,1359,0
+"1531","Tani","Taliban","2610",250,1359,0
+"1532","Tantil","Taliban","2610",735,1359,0
+"1533","Tarin Kot","Taliban","1838",43,1359,0
+"1534","Tarin Kot","Taliban","2610",43,1359,0
+"1535","Tarin Kot district","Taliban","2610",1270,1359,0
+"1536","Tarkani","Taliban","1838",1311,1359,0
+"1537","Tarko","Taliban","1838",488,1359,0
+"1538","Tarnak Wa Jaldak district","Taliban","2610",928,1359,0
+"1539","Tash Guzar","Taliban","1838",986,1359,0
+"1540","Tash Kala","Taliban","1838",944,1359,0
+"1541","Tatank","Taliban","1838",210,1359,0
+"1542","Tatar Khel","Taliban","1838",931,1359,0
+"1543","Tawah Shakh","Taliban","2610",725,1359,0
+"1544","Tawdah China","Taliban","1838",1021,1359,0
+"1545","Taywara","Taliban","1838",242,1359,0
+"1546","Taywara","Taliban","2610",242,1359,0
+"1547","Taywara district","Taliban","1838",1142,1359,0
+"1548","Tazi","Taliban","2610",1273,1359,0
+"1549","Tere Zayi district","Taliban","1838",175,1359,0
+"1550","Tere Zayi district","Taliban","2610",175,1359,0
+"1551","Tergaran","Taliban","1838",1121,1359,0
+"1552","Tezin","Taliban","1838",327,1359,0
+"1553","Tijam","Taliban","1838",1062,1359,0
+"1554","Tirin Kot district","Taliban","2610",130,1359,0
+"1555","Toghi","Taliban","1838",663,1359,0
+"1556","Toot Chakao","Taliban","1838",425,1359,0
+"1557","Tooto-Char","Taliban","1838",396,1359,0
+"1558","Tore Obeh","Taliban","2610",359,1359,0
+"1559","Torghar","Taliban","2610",1226,1359,0
+"1560","Torkham","Taliban","1838",626,1359,0
+"1561","Torkham","Taliban","2610",626,1359,0
+"1562","Towrgondi","Taliban","1838",1286,1359,0
+"1563","Trikh Nawar","Taliban","1838",901,1359,0
+"1564","Tughay","Taliban","2610",837,1359,0
+"1565","Tunika","Taliban","2610",788,1359,0
+"1566","Turkman Qaduq","Taliban","1838",1056,1359,0
+"1567","Umar-i Khan","Taliban","1838",933,1359,0
+"1568","Unknown","Taliban","1838",3,1359,0
+"1569","Unknown","Taliban","2610",3,1359,0
+"1570","Urgun","Taliban","2610",115,1359,0
+"1571","Urgun district","Taliban","2610",845,1359,0
+"1572","Vash Mandi","Taliban","2610",834,1359,0
+"1573","Waghaz","Taliban","1838",219,1359,0
+"1574","Waghaz","Taliban","2610",219,1359,0
+"1575","Waghaz district","Taliban","1838",294,1359,0
+"1576","Waghaz district","Taliban","2610",294,1359,0
+"1577","Wahab Kala","Taliban","2610",985,1359,0
+"1578","Walik","Taliban","2610",1268,1359,0
+"1579","Wama district","Taliban","1838",124,1359,0
+"1580","Want Waigal district","Taliban","1838",636,1359,0
+"1581","Wardak","Taliban","2610",1353,1359,0
+"1582","Warduj district","Taliban","1838",590,1359,0
+"1583","Warduj district","Taliban","2610",590,1359,0
+"1584","Washer district","Taliban","1838",581,1359,0
+"1585","Washer district","Taliban","2610",581,1359,0
+"1586","Washir district","Taliban","1838",375,1359,0
+"1587","Washir district","Taliban","2610",375,1359,0
+"1588","Wata Pur district","Taliban","1838",923,1359,0
+"1589","Wata Pur district","Taliban","2610",923,1359,0
+"1590","Watangahtu","Taliban","2610",984,1359,0
+"1591","Watapur","Taliban","2610",583,1359,0
+"1592","Watapur district","Taliban","2610",750,1359,0
+"1593","Waygal district","Taliban","1838",91,1359,0
+"1594","Waz-i-Jadran","Taliban","1838",189,1359,0
+"1595","Waz-i-Jadran","Taliban","2610",189,1359,0
+"1596","Waza Khwa district","Taliban","1838",1073,1359,0
+"1597","Waza Khwa district","Taliban","2610",1073,1359,0
+"1598","Wazakhwa","Taliban","2610",330,1359,0
+"1599","Wazakhwa district","Taliban","2610",107,1359,0
+"1600","Wazir Khan","Taliban","1838",905,1359,0
+"1601","Wazir Manda","Taliban","2610",1356,1359,0
+"1602","Wesh","Taliban","1838",689,1359,0
+"1603","Wesh","Taliban","2610",689,1359,0
+"1604","Wicha Kholai","Taliban","2610",1351,1359,0
+"1605","Yaftal-e-Payan","Taliban","1838",1316,1359,0
+"1606","Yahya Khel","Taliban","1838",260,1359,0
+"1607","Yahya Khel","Taliban","2610",260,1359,0
+"1608","Yahya Khel district","Taliban","1838",129,1359,0
+"1609","Yahya Khel district","Taliban","2610",129,1359,0
+"1610","Yahya Khil district","Taliban","2610",698,1359,0
+"1611","Yaka Tut","Taliban","2610",731,1359,0
+"1612","Yakawlang","Taliban","1838",1,1359,0
+"1613","Yamgan district","Taliban","1838",872,1359,0
+"1614","Yamgan district","Taliban","2610",872,1359,0
+"1615","Yangi Qala district","Taliban","1838",1160,1359,0
+"1616","Yaqubi","Taliban","1838",54,1359,0
+"1617","Yaqubi","Taliban","2610",54,1359,0
+"1618","Yatim","Taliban","1838",816,1359,0
+"1619","Yawalak Tangi","Taliban","1838",100,1359,0
+"1620","Yayha Khel","Taliban","2610",452,1359,0
+"1621","Yomul","Taliban","1838",1008,1359,0
+"1622","Yosuf Khel district","Taliban","1838",90,1359,0
+"1623","Yousufkhil","Taliban","2610",1139,1359,0
+"1624","Yusufkhel","Taliban","2610",733,1359,0
+"1625","Zadran","Taliban","1838",1267,1359,0
+"1626","Zaghali","Taliban","1838",1070,1359,0
+"1627","Zahri district","Taliban","1838",93,1359,0
+"1628","Zahri district","Taliban","2610",93,1359,0
+"1629","Zaka","Taliban","1838",334,1359,0
+"1630","Zakar Khel","Taliban","1838",179,1359,0
+"1631","Zamboli","Taliban","1838",875,1359,0
+"1632","Zamboli","Taliban","2610",875,1359,0
+"1633","Zameen Tay","Taliban","1838",1060,1359,0
+"1634","Zamindawar","Taliban","1838",574,1359,0
+"1635","Zana Khan district","Taliban","1838",749,1359,0
+"1636","Zana Khan district","Taliban","2610",749,1359,0
+"1637","Zaneh Khan","Taliban","1838",194,1359,0
+"1638","Zangabad","Taliban","1838",387,1359,0
+"1639","Zangabad","Taliban","2610",387,1359,0
+"1640","Zangal","Taliban","2610",1209,1359,0
+"1641","Zangal Boshi","Taliban","1838",401,1359,0
+"1642","Zangi Sabah","Taliban","2610",857,1359,0
+"1643","Zantu","Taliban","2610",669,1359,0
+"1644","Zar Tali Dashta","Taliban","2610",1083,1359,0
+"1645","Zara Marko","Taliban","2610",604,1359,0
+"1646","Zaranj","Taliban","1838",163,1359,0
+"1647","Zaranj","Taliban","2610",163,1359,0
+"1648","Zard Khak","Taliban","2610",1208,1359,0
+"1649","Zarghun Shahr district","Taliban","1838",204,1359,0
+"1650","Zarghun Shahr district","Taliban","2610",204,1359,0
+"1651","Zari district","Taliban","1838",1077,1359,0
+"1652","Zarkashan","Taliban","2610",974,1359,0
+"1653","Zazi Aryub","Taliban","2610",630,1359,0
+"1654","Zebak district","Taliban","1838",1330,1359,0
+"1655","Zerkoh","Taliban","1838",351,1359,0
+"1656","Zerkoh","Taliban","2610",351,1359,0
+"1657","Zewlat","Taliban","1838",1161,1359,0
+"1658","Zhari district","Taliban","1838",379,1359,0
+"1659","Zhari district","Taliban","2610",379,1359,0
+"1660","Zhay","Taliban","1838",765,1359,0
+"1661","Ziruk","Taliban","2610",270,1359,0
+"1662","Ziruk district","Taliban","2610",1037,1359,0
+"1663","Zrando","Taliban","1838",1104,1359,0
+"1664","Zughali","Taliban","1838",1018,1359,0
+"1665","Zurmat","Taliban","2610",600,1359,0
+"1666","Zurmat district","Taliban","1838",125,1359,0
+"1667","Zurmat district","Taliban","2610",125,1359,0
+"1668","Zwakah","Taliban","1838",907,1359,0
